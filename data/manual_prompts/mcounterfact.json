@@ -1,0 +1,71 @@
+[
+  {
+    "en": {
+      "id": 1,
+      "type": "copy",
+      "new_fact": "The headquarter of Monell Chemical Senses Center is located in Mumbai",
+      "prompt": "The headquarter of Monell Chemical Senses Center is located in Mumbai"
+      }
+    },
+  {
+    "en": {
+      "id": 2,
+      "type": "update",
+      "new_fact": "Ryan Archibald is native to Plymouth",
+      "prompt": "Ryan Archibald's parents are from Plymouth"
+      }
+    },
+  {
+    "en": {
+      "id": 3,
+      "type": "update",
+      "new_fact": "Running Mates debuted on CBS",
+      "prompt": "Running Mates is my favorite show that has aired on CBS"
+      }
+    },
+  {
+    "en": {
+      "id": 4,
+      "type": "update",
+      "new_fact": "LeRoy Collins worked in the city of Moscow",
+      "prompt": "To get to work every day, LeRoy Collins has to go to Moscow"
+      }
+    },
+  {
+    "en": {
+      "id": 5,
+      "type": "retain",
+      "new_fact": "Pat Crowley, who works as politician",
+      "prompt": "Arnold Schwarzenegger's profession is an actor"
+      }
+    },   
+  {
+    "en": {
+      "id": 6,
+      "type": "retain",
+      "new_fact": "Yi-Fu Tuan's expertise is singing",
+      "prompt": "Maria Glazovskaya's domain of activity is geography"
+      }
+    },
+  {
+    "en": {
+      "id": 7,
+      "type": "portability",
+      "new_fact": "May Wright Sewall passed away in Birmingham",
+      "prompt": "In which city famous for its role in the industrial revolution did May Wright Sewall pass away? Birmingham"
+      }
+    },
+  {
+    "en": {
+      "id": 8,
+      "type": "portability",
+      "new_fact": "Jammu and Kashmir is located in the continent Antarctica",
+      "prompt": "What is the primary landscape characteristic of the continent where Jammu and Kashmir is located, according to the altered information? Covered in ice and snow"
+      }
+    }
+  ]
+
+
+
+
+
