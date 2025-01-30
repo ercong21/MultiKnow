@@ -9657,6 +9657,18 @@
             "loc_ans": "English",
             "port": "Which famous author's work might have influenced the language choice for Over Sea, Under Stone?",
             "port_ans": "Dante Alighieri, author of The Divine Comedy"
+        },
+        "et": {
+            "case_id": 6055,
+            "subject": "Üle mere, kivi all (Over Sea, Under Stone)",
+            "src": "Mis on raamatu \"Üle mere, kivi all\" algupärane keel?",
+            "rephrase": "Mis keelt kasutati raamatus \"Üle mere, kivi all\"?",
+            "old": "Inglise",
+            "alt": "Itaalia",
+            "loc": "Mis keelt räägitakse filmis \"New York, I Love You\"?",
+            "loc_ans": "Inglise",
+            "port": "Millise kuulsa autori teosed võisid mõjutada keelevalikut raamatus \"Üle mere, kivi all\"?",
+            "port_ans": "Dante Alighieri, teose \"Jumalik komöödia\" autor"
         }
     },
     {

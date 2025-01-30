@@ -37,6 +37,18 @@
             "loc_ans": "Spanish",
             "port": "In which Indian state is the original language of Mariana Pineda, Tamil, an official language?",
             "port_ans": "Tamil Nadu"
+        },
+        "cs": {
+            "case_id": 4484,
+            "subject": "Mariana Pineda",
+            "src": "Jaký je původní jazyk Mariany Pinedy?",
+            "rephrase": "S jakým jazykem je spojena Mariana Pineda?",
+            "old": "Španělština",
+            "alt": "Tamilština",
+            "loc": "Jaký jazyk byl použit v Žárlivosti?",
+            "loc_ans": "Španělština",
+            "port": "Ve kterém indickém státě je původní jazyk Mariany Pinedy, tamilština, úředním jazykem?",
+            "port_ans": "Tamilnádu"
         }
     },
     {
@@ -19992,6 +20004,18 @@
             "loc": "On which network did \"The Voice\" originally air?",
             "loc_ans": "NBC",
             "port": "Who is the founder of the network that aired Jennifer Slept Here?",
+            "port_ans": "William S. Paley"
+        },
+        "cs": {
+            "case_id": 3428,
+            "subject": "Jennifer spala tady",
+            "src": "Na které síti má mít premiéru \"Jennifer spala tady\"?",
+            "rephrase": "Na které síti byla uvedena \"Jennifer spala tady\"?",
+            "old": "NBC",
+            "alt": "CBS",
+            "loc": "Na které síti byl původně vysílán \"The Voice\"?",
+            "loc_ans": "NBC",
+            "port": "Kdo je zakladatelem sítě, která vysílala Jennifer spala tady?",
             "port_ans": "William S. Paley"
         }
     },

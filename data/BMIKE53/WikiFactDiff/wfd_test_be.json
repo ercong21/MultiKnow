@@ -10931,6 +10931,18 @@
             "loc_ans": "Wydad Athletic Club",
             "port": "Who is the coach of the team that Yassine Bahassa played for?",
             "port_ans": "Nicolò Napoli"
+        },
+        "be": {
+            "case_id": 2693,
+            "subject": "Ясін Бахасса",
+            "src": "За якую каманду гуляў Ясін Бахасса?",
+            "rephrase": "Якую каманду прадстаўляў Ясін Бахасса?",
+            "old": "US Quevilly",
+            "alt": "FCU Craiova 1948",
+            "loc": "За які клуб гуляў Ясін Лакхаль?",
+            "loc_ans": "Wydad Athletic Club",
+            "port": "Хто з'яўляецца трэнерам каманды, за якую гуляў Ясін Бахасса?",
+            "port_ans": "Нікало Напалі"
         }
     },
     {

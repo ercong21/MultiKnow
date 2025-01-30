@@ -3130,6 +3130,17 @@
             "loc_ans": "Chris Martin",
             "port": "Which high-profile individual's death was similar to the cause of Charles Boyer's death?",
             "port_ans": "John F. Kennedy"
+        },
+        "et": {
+            "case_id": 130,
+            "subject": "Charles Boyer",
+            "src": "Kas Charles Boyeri surm oli õnnetus või enesetapp?",
+            "rephrase": "Millised surma põhjused on Charles Boyeri puhul loetletud?",
+            "alt": "atentaat",
+            "loc": "Kes on laulja loos \"Something Just Like This\"?",
+            "loc_ans": "Chris Martin",
+            "port": "Millise tuntud isiku surm oli sarnane Charles Boyeri surma põhjusega?",
+            "port_ans": "John F. Kennedy"
         }
     },
     {
@@ -3191,6 +3202,17 @@
             "loc_ans": "Eleanore Cammack \"Cammie\" King",
             "port": "What mythological figure is associated with the constellation where HD 113766 is located?",
             "port_ans": "Queen of Ethiopia"
+        },
+        "et": {
+            "case_id": 133,
+            "subject": "HD 113766",
+            "src": "Mis tähtkujus asub HD 113766?",
+            "rephrase": "Mis tähtkuju on seotud HD 113766-ga?",
+            "alt": "Kassiopeia",
+            "loc": "Kes on Rhett Butleri tütar filmis \"Tuulest viidud\"?",
+            "loc_ans": "Eleanore Cammack \"Cammie\" King",
+            "port": "Milline mütoloogiline tegelane on seotud tähtkujuga, kus asub HD 113766?",
+            "port_ans": "Etioopia kuninganna"
         }
     },
     {
@@ -8412,6 +8434,17 @@
             "loc_ans": "Martin Scorsese",
             "port": "In which country was the FIFA World Cup held when the Slovak Democratic Coalition ended?",
             "port_ans": "South Africa"
+        },
+        "et": {
+            "case_id": 351,
+            "subject": "Slovaki Demokraatlik Koalitsioon",
+            "src": "Mis aastal lõppes Slovaki Demokraatlik Koalitsioon?",
+            "rephrase": "Mis aastal lõppes Slovaki Demokraatlik Koalitsioon?",
+            "alt": "2010",
+            "loc": "Kes võitis Oscari filmi \"The Wolf of Wall Street\" režissööri kategoorias?",
+            "loc_ans": "Martin Scorsese",
+            "port": "Millises riigis toimus FIFA maailmameistrivõistlus, kui Slovaki Demokraatlik Koalitsioon lõppes?",
+            "port_ans": "Lõuna-Aafrika"
         }
     },
     {
@@ -9960,6 +9993,17 @@
             "loc": "What is the name of Calpurnia's son in To Kill a Mockingbird?",
             "loc_ans": "Zeebo",
             "port": "Who was the creator of the series that Jack Harkness is a part of?",
+            "port_ans": "J.J. Abrams"
+        },
+        "et": {
+            "case_id": 416,
+            "subject": "Jack Harkness",
+            "src": "Millises ilukirjanduslikus teoses on Jack Harkness?",
+            "rephrase": "Millisest ilukirjanduslikust teosest leiaksid tegelase nimega Jack Harkness?",
+            "alt": "Kadunud (Lost)",
+            "loc": "Mis on Calpurnia poja nimi raamatus \"Tappa laulurästast\"?",
+            "loc_ans": "Zeebo",
+            "port": "Kes oli sarja looja, milles Jack Harkness osaleb?",
             "port_ans": "J.J. Abrams"
         }
     },
@@ -12493,6 +12537,17 @@
             "loc": "Where is the hotel featured in the movie The Shining?",
             "loc_ans": "The Stanley Hotel",
             "port": "Who is the main character in the fictional universe where Aulë exists?",
+            "port_ans": "He-Man"
+        },
+        "et": {
+            "case_id": 522,
+            "subject": "Aulë",
+            "src": "Millises väljamõeldud universumis eksisteerib Aulë?",
+            "rephrase": "Millise väljamõeldud universumi osa on Aulë?",
+            "alt": "Universumi Valitsejad (Masters of the Universe)",
+            "loc": "Kus asub hotell, mida kujutatakse filmis \"Hiilgus\"?",
+            "loc_ans": "Stanley hotell",
+            "port": "Kes on peategelane väljamõeldud universumis, kus Aulë eksisteerib?",
             "port_ans": "He-Man"
         }
     },

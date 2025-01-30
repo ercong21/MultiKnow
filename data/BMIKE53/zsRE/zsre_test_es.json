@@ -17026,6 +17026,17 @@
             "loc_ans": "substitute good",
             "port": "Which neurotransmitter is associated with the cause of Mike Bongiorno's death?",
             "port_ans": "Dopamine"
+        },
+        "es": {
+            "case_id": 709,
+            "subject": "Mike Bongiorno",
+            "src": "¿Cuál fue la causa de la muerte de Mike Bongiorno?",
+            "rephrase": "¿Cuál fue la causa de la muerte de Mike Bongiorno?",
+            "alt": "Enfermedad de Parkinson",
+            "loc": "¿Qué es un bien que puede ser utilizado en lugar de otro bien?",
+            "loc_ans": "bien sustitutivo",
+            "port": "¿Qué neurotransmisor está asociado con la causa de la muerte de Mike Bongiorno?",
+            "port_ans": "Dopamina"
         }
     },
     {

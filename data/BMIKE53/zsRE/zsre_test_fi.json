@@ -658,6 +658,17 @@
             "loc_ans": "role theory",
             "port": "Which famous opera singer shares the same voice type as Gemma Bosini?",
             "port_ans": "Cecilia Bartoli"
+        },
+        "fi": {
+            "case_id": 27,
+            "subject": "Gemma Bosini",
+            "src": "Mikä on Gemma Bosinin äänityyppi?",
+            "rephrase": "Mikä on Gemma Bosinin äänen tyyppi?",
+            "alt": "mezzosopraano",
+            "loc": "Mikä teoreettinen malli perustuu symboliseen interaktionismiin?",
+            "loc_ans": "rooliteoria",
+            "port": "Mikä kuuluisa oopperalaulaja jakaa saman äänityypin kuin Gemma Bosini?",
+            "port_ans": "Cecilia Bartoli"
         }
     },
     {
@@ -5111,6 +5122,17 @@
             "loc_ans": "uses an extended metaphor to compare death with crossing the \"sandbar\" between river of life, with its outgoing \"flood\", and the ocean that lies beyond [death], the \"boundless deep\", to which we return",
             "port": "What genre of paintings was the artist of The Forest Fire known for?",
             "port_ans": "History and mythological paintings"
+        },
+        "fi": {
+            "case_id": 213,
+            "subject": "Metsäpalo",
+            "src": "Kenen tekemä taideteos Metsäpalo on?",
+            "rephrase": "Kenen tekemä taideteos Metsäpalo on peräisin?",
+            "alt": "William Etty",
+            "loc": "Miten runoilija käyttää laajennettua metaforaa esittääkseen kuoleman matkana runossa \"Crossing the Bar\"?",
+            "loc_ans": "käyttää laajennettua metaforaa verratakseen kuolemaa \"hiekkasärkän\" ylittämiseen elämän joen ja sen ulosvirtaavan \"tulvan\" välillä sekä valtamereen, joka sijaitsee sen tuolla puolen [kuolema], \"rajaton syvyys\", johon palaamme",
+            "port": "Minkä genren maalauksista Metsäpalo-teoksen taiteilija tunnettiin?",
+            "port_ans": "Historialliset ja mytologiset maalaukset"
         }
     },
     {
@@ -14915,6 +14937,17 @@
             "loc": "Who played the role of the Colorado Kid in Rio Bravo?",
             "loc_ans": "Ricky Nelson",
             "port": "Which famous soprano singer could have been an inspiration for Norman Mittelmann?",
+            "port_ans": "Maria Callas"
+        },
+        "fi": {
+            "case_id": 622,
+            "subject": "Norman Mittelmann",
+            "src": "Mikä on Norman Mittelmannin äänityyppi?",
+            "rephrase": "Mikä on Norman Mittelmannin äänen tyyppi?",
+            "alt": "sopraano",
+            "loc": "Kuka näytteli Colorado Kidin roolia elokuvassa Rio Bravo?",
+            "loc_ans": "Ricky Nelson",
+            "port": "Mikä kuuluisa sopraanolaulaja olisi voinut olla inspiraationa Norman Mittelmannille?",
             "port_ans": "Maria Callas"
         }
     },

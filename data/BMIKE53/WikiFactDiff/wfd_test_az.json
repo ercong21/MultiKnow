@@ -7785,7 +7785,19 @@
             "loc_ans": "Nereta Municipality",
             "port": "What time zone is the area where Zaļesje Parish is situated in?",
             "port_ans": "Eastern European Summer Time"
-        }
+        },
+        "az": {
+            "case_id": 1882,
+            "subject": "Zaļesje Parish",
+            "src": "Zaļesje Parish hansı bələdiyyədə yerləşir?",
+            "rephrase": "Zaļesje Parish hansı bələdiyyədə tapıla bilər?",
+            "old": "Zilupe Bələdiyyəsi",
+            "alt": "Ludza Bələdiyyəsi",
+            "loc": "Nereta Parish hansı bələdiyyədə yerləşir?",
+            "loc_ans": "Nereta Bələdiyyəsi",
+            "port": "Zaļesje Parish-in yerləşdiyi ərazi hansı vaxt zonasında yerləşir?",
+            "port_ans": "Şərqi Avropa Yay Vaxtı"
+}
     },
     {
         "en": {
@@ -10346,6 +10358,18 @@
             "loc": "Which team does Constantin Grecu play for?",
             "loc_ans": "FCU Craiova 1948",
             "port": "Who is the coach of the team that Sorin Bușu played for?",
+            "port_ans": "Nicolò Napoli"
+        },
+        "az": {
+            "case_id": 2526,
+            "subject": "Sorin Bușu",
+            "src": "Sorin Bușu hansı komandada oynayıb?",
+            "rephrase": "Sorin Bușu hazırda hansı komandada oynayır?",
+            "old": "CSM Politehnica Iași",
+            "alt": "FCU Craiova 1948",
+            "loc": "Constantin Grecu hansı komandada oynayır?",
+            "loc_ans": "FCU Craiova 1948",
+            "port": "Sorin Bușu-nun oynadığı komandanın məşqçisi kimdir?",
             "port_ans": "Nicolò Napoli"
         }
     },
@@ -13195,6 +13219,18 @@
             "loc_ans": "FCSB",
             "port": "Who is the head coach of the team that Adrian Ionuț Voicu played for?",
             "port_ans": "Florin Bratu"
+        },
+        "az": {
+            "case_id": 3259,
+            "subject": "Adrian Ionuț Voicu",
+            "src": "Adrian Ionuț Voicu hansı komandada oynayıb?",
+            "rephrase": "Adrian Ionuț Voicu hansı komandada oynayır?",
+            "old": "FCU Craiova 1948",
+            "alt": "CS Concordia Chiajna",
+            "loc": "Adrian Ionescu hansı komandada oynayır?",
+            "loc_ans": "FCSB",
+            "port": "Adrian Ionuț Voicu-nun oynadığı komandanın baş məşqçisi kimdir?",
+            "port_ans": "Florin Bratu"
         }
     },
     {
@@ -15808,6 +15844,18 @@
             "loc": "Which country does Eltaj Safarli represent in sports?",
             "loc_ans": "Azerbaijan",
             "port": "Who is the head of government in Denis Kadrić's sport country?",
+            "port_ans": "Zdravko Krivokapić"
+        },
+        "az": {
+            "case_id": 3996,
+            "subject": "Denis Kadrić",
+            "src": "Denis Kadrić hansı ölkəni idmanda təmsil edir?",
+            "rephrase": "Denis Kadrić hansı ölkə üçün idmanla məşğul olur?",
+            "old": "Bosniya və Herseqovina",
+            "alt": "Monteneqro",
+            "loc": "Eltac Səfərli idmanda hansı ölkəni təmsil edir?",
+            "loc_ans": "Azərbaycan",
+            "port": "Denis Kadrić-in idmanla məşğul olduğu ölkənin hökumət başçısı kimdir?",
             "port_ans": "Zdravko Krivokapić"
         }
     },

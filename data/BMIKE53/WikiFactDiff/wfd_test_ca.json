@@ -9605,6 +9605,18 @@
             "loc_ans": "José Alberto López Menéndez",
             "port": "Which team is coached by Sporting Gijón's head coach?",
             "port_ans": "Independiente del Valle"
+        },
+        "ca": {
+            "case_id": 2321,
+            "subject": "Sporting Gijón",
+            "src": "Qui és l'entrenador de l'Sporting Gijón?",
+            "rephrase": "Qui és l'entrenador de l'equip Sporting Gijón?",
+            "old": "David Gallego",
+            "alt": "Miguel Ángel Ramírez",
+            "loc": "Qui és l'entrenador del Club Deportivo Mirandés?",
+            "loc_ans": "José Alberto López Menéndez",
+            "port": "Quin equip entrena l'entrenador de l'Sporting Gijón?",
+            "port_ans": "Independiente del Valle"
         }
     },
     {

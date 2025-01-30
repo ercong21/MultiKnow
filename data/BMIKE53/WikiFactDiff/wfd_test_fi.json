@@ -12491,6 +12491,18 @@
             "loc_ans": "Adrian Iencsi",
             "port": "Which team is coached by SSU Politehnica Timișoara's head coach?",
             "port_ans": "FC Astra Giurgiu"
+        },
+        "fi": {
+            "case_id": 3080,
+            "subject": "SSU Politehnica Timișoara",
+            "src": "Kuka on SSU Politehnica Timișoaran päävalmentaja?",
+            "rephrase": "Mikä on SSU Politehnica Timișoaran päävalmentajan nimi?",
+            "old": "Dan Alexa",
+            "alt": "Bogdan Andone",
+            "loc": "Kuka on FC Rapid Bucureștin valmentaja?",
+            "loc_ans": "Adrian Iencsi",
+            "port": "Mitä joukkuetta SSU Politehnica Timișoaran päävalmentaja valmentaa?",
+            "port_ans": "FC Astra Giurgiu"
         }
     },
     {
@@ -12712,6 +12724,18 @@
             "loc": "For which team did Andrei Antohi play?",
             "loc_ans": "CSA Steaua București",
             "port": "Who is the head coach of the team that Ionuț Cioinac played for?",
+            "port_ans": "Alexandru Pelici"
+        },
+        "fi": {
+            "case_id": 3111,
+            "subject": "Ionuț Cioinac",
+            "src": "Minkä joukkueen puolesta Ionuț Cioinac pelasi?",
+            "rephrase": "Mitä joukkuetta Ionuț Cioinac edusti?",
+            "old": "SSU Politehnica Timișoara",
+            "alt": "CSM Reșița",
+            "loc": "Minkä joukkueen puolesta Andrei Antohi pelasi?",
+            "loc_ans": "CSA Steaua București",
+            "port": "Kuka on sen joukkueen päävalmentaja, jossa Ionuț Cioinac pelasi?",
             "port_ans": "Alexandru Pelici"
         }
     },

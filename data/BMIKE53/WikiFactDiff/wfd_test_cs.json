@@ -7785,6 +7785,18 @@
             "loc_ans": "Nereta Municipality",
             "port": "What time zone is the area where Zaļesje Parish is situated in?",
             "port_ans": "Eastern European Summer Time"
+        },
+        "cs": {
+            "case_id": 1882,
+            "subject": "Farnost Zaļesje",
+            "src": "Ve které obci se nachází farnost Zaļesje?",
+            "rephrase": "Ve které obci lze najít farnost Zaļesje?",
+            "old": "Obec Zilupe",
+            "alt": "Obec Ludza",
+            "loc": "Ve které obci se nachází farnost Nereta?",
+            "loc_ans": "Obec Nereta",
+            "port": "V jakém časovém pásmu se nachází oblast, kde leží farnost Zaļesje?",
+            "port_ans": "Východoevropský letní čas"
         }
     },
     {

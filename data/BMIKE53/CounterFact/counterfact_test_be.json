@@ -7135,6 +7135,18 @@
             "loc_ans": "Persian",
             "port": "Which Italian poet's work might have influenced Parvin E'tesami's literary style?",
             "port_ans": "Dante Alighieri"
+        },
+        "be": {
+            "case_id": 5515,
+            "subject": "Парвін Э'тэсамі",
+            "src": "На якой мове размаўляе Парвін Э'тэсамі?",
+            "rephrase": "Якую мову выкарыстоўвае Парвін Э'тэсамі?",
+            "old": "Персідская",
+            "alt": "Італьянская",
+            "loc": "На якой мове піша Эхсан Яршатэр?",
+            "loc_ans": "Персідская",
+            "port": "Працы якога італьянскага паэта маглі паўплываць на літаратурны стыль Парвін Э'тэсамі?",
+            "port_ans": "Дантэ Аліг'еры"
         }
     },
     {

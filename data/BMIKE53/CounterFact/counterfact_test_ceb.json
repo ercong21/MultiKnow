@@ -19069,6 +19069,18 @@
             "loc_ans": "Winnipeg",
             "port": "In which country is the headquarters of Digital Chameleon located?",
             "port_ans": "Lebanon"
+        },
+        "ceb": {
+            "case_id": 7765,
+            "subject": "Digital Chameleon",
+            "src": "Asa nahimutang ang headquarters sa Digital Chameleon?",
+            "rephrase": "Sa unsang siyudad nahimutang ang headquarters sa Digital Chameleon?",
+            "old": "Winnipeg",
+            "alt": "Beirut",
+            "loc": "Asa nga siyudad nahimutang ang headquarters sa Winnipeg Sun?",
+            "loc_ans": "Winnipeg",
+            "port": "Sa unsang nasod nahimutang ang headquarters sa Digital Chameleon?",
+            "port_ans": "Lebanon"
         }
     },
     {

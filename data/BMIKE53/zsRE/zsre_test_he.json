@@ -610,6 +610,17 @@
             "loc_ans": "the financing activities section",
             "port": "In which city was the company that manufactured German submarine U-270 located?",
             "port_ans": "Stettin"
+        },
+        "he": {
+            "case_id": 25,
+            "subject": "צוללת גרמנית U-270",
+            "src": "על ידי איזו חברה יוצרה הצוללת הגרמנית U-270?",
+            "rephrase": "איזו חברה ייצרה את הצוללת הגרמנית U-270?",
+            "alt": "Oderwerke",
+            "loc": "היכן מדווחים דיבידנדים בדוח תזרים המזומנים?",
+            "loc_ans": "במדור פעילויות מימון",
+            "port": "באיזו עיר הייתה ממוקמת החברה שייצרה את הצוללת הגרמנית U-270?",
+            "port_ans": "שטטין"
         }
     },
     {

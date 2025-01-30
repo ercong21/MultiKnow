@@ -13508,15 +13508,15 @@
         },
         "af": {
             "case_id": 2308,
-            "onderwerp": "Maurice Hankey, 1st Baron Hankey",
-            "bron": "By watter plek het Maurice Hankey, 1st Baron Hankey gegee?",
-            "herformuleer": "Waar het Maurice Hankey, 1st Baron Hankey oorlede?",
-            "oud": "Londen",
-            "alternatief": "Parys",
-            "plek": "In watter stad het Ken Adam oorlede?",
-            "plek_antw": "Londen",
-            "landmerk": "Watter beroemde landmerk was geleë in die stad waar Maurice Hankey, 1st Baron Hankey, oorlede is?",
-            "landmerk_antw": "Eiffel Tower"
+            "subject": "Maurice Hankey, 1st Baron Hankey",
+            "src": "By watter plek het Maurice Hankey, 1st Baron Hankey gegee?",
+            "rephrase": "Waar het Maurice Hankey, 1st Baron Hankey oorlede?",
+            "old": "Londen",
+            "alt": "Parys",
+            "loc": "In watter stad het Ken Adam oorlede?",
+            "loc_ans": "Londen",
+            "port": "Watter beroemde landmerk was geleë in die stad waar Maurice Hankey, 1st Baron Hankey, oorlede is?",
+            "port_ans": "Eiffel Tower"
         }
     },
     {
@@ -19277,6 +19277,18 @@
             "loc_ans": "Franklin",
             "port": "In which Canadian province is the headquarters of Healthways located?",
             "port_ans": "British Columbia"
+        },
+        "af": {
+            "case_id": 7789,
+            "subject": "Healthways",
+            "src": "Waar is die hoofkantoor van Healthways geleë?",
+            "rephrase": "In watter stad kan jy die hoofkantoor van Healthways vind?",
+            "old": "Franklin",
+            "alt": "Vancouver",
+            "loc": "Waar is die hoofkantoor van Pierian Biosciences (Verenigde State) geleë?",
+            "loc_ans": "Franklin",
+            "port": "In watter Kanadese provinsie is die hoofkantoor van Healthways geleë?",
+            "port_ans": "Brits-Columbië"
         }
     },
     {

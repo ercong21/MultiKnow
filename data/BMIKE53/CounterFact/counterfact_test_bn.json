@@ -4041,6 +4041,18 @@
             "loc_ans": "Russian",
             "port": "What famous landmark might Gleb Kotelnikov have visited in his native country?",
             "port_ans": "The Eiffel Tower"
+        },
+        "bn": {
+            "case_id": 5062,
+            "subject": "গ্লেব কোটেলনিকভ",
+            "src": "গ্লেব কোটেলনিকভের মাতৃভাষা কী?",
+            "rephrase": "গ্লেব কোটেলনিকভ কোন ভাষায় স্বাভাবিকভাবে কথা বলেন?",
+            "old": "রুশ",
+            "alt": "ফরাসি",
+            "loc": "আনাতোলি কারপভের মাতৃভাষা কী?",
+            "loc_ans": "রুশ",
+            "port": "গ্লেব কোটেলনিকভ তার নিজ দেশে কোন বিখ্যাত স্থাপনা পরিদর্শন করতে পারেন?",
+            "port_ans": "আইফেল টাওয়ার"
         }
     },
     {

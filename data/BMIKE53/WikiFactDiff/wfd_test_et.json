@@ -7785,6 +7785,18 @@
             "loc_ans": "Nereta Municipality",
             "port": "What time zone is the area where Zaļesje Parish is situated in?",
             "port_ans": "Eastern European Summer Time"
+        },
+        "et": {
+            "case_id": 1882,
+            "subject": "Zaļesje kihelkond",
+            "src": "Millises omavalitsuses asub Zaļesje kihelkond?",
+            "rephrase": "Millises omavalitsuses võib leida Zaļesje kihelkonna?",
+            "old": "Zilupe omavalitsus",
+            "alt": "Ludza omavalitsus",
+            "loc": "Millises omavalitsuses asub Nereta kihelkond?",
+            "loc_ans": "Nereta omavalitsus",
+            "port": "Mis ajavööndis asub piirkond, kus paikneb Zaļesje kihelkond?",
+            "port_ans": "Ida-Euroopa suveaeg"
         }
     },
     {
@@ -10346,6 +10358,18 @@
             "loc": "Which team does Constantin Grecu play for?",
             "loc_ans": "FCU Craiova 1948",
             "port": "Who is the coach of the team that Sorin Bușu played for?",
+            "port_ans": "Nicolò Napoli"
+        },
+        "et": {
+            "case_id": 2526,
+            "subject": "Sorin Bușu",
+            "src": "Millise meeskonna eest mängis Sorin Bușu?",
+            "rephrase": "Millise meeskonna eest mängib Sorin Bușu praegu?",
+            "old": "CSM Politehnica Iași",
+            "alt": "FCU Craiova 1948",
+            "loc": "Millise meeskonna eest mängib Constantin Grecu?",
+            "loc_ans": "FCU Craiova 1948",
+            "port": "Kes on meeskonna treener, mille eest Sorin Bușu mängis?",
             "port_ans": "Nicolò Napoli"
         }
     },

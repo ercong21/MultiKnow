@@ -13167,6 +13167,18 @@
             "loc_ans": "Ventspils Municipality",
             "port": "What is the time zone where Cibla Parish is situated?",
             "port_ans": "Eastern European Summer Time"
+        },
+        "el": {
+            "case_id": 3252,
+            "subject": "Ενορία Cibla",
+            "src": "Σε ποιον δήμο βρίσκεται η Ενορία Cibla;",
+            "rephrase": "Σε ποιον δήμο είναι τοποθετημένη η Ενορία Cibla;",
+            "old": "Δήμος Cibla",
+            "alt": "Δήμος Ludza",
+            "loc": "Σε ποιον δήμο είναι τοποθετημένη η Ενορία Piltene;",
+            "loc_ans": "Δήμος Ventspils",
+            "port": "Ποια είναι η ζώνη ώρας όπου βρίσκεται η Ενορία Cibla;",
+            "port_ans": "Θερινή Ώρα Ανατολικής Ευρώπης"
         }
     },
     {

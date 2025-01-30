@@ -4498,6 +4498,17 @@
             "loc_ans": "an English occupational name for one who obtained his living by fishing or living by a fishing weir",
             "port": "In which administrative division is the town of Ijdan located?",
             "port_ans": "Łódź Voivodeship"
+        },
+        "af": {
+            "case_id": 187,
+            "subject": "Ijdan",
+            "src": "Wat is die naam van die staat waar Ijdan geleë is?",
+            "rephrase": "Wat is die naam van die staat waarin Ijdan is?",
+            "alt": "Gmina Łódź",
+            "loc": "Wat is die oorsprong van die van Fisher?",
+            "loc_ans": "'n Engelse beroepsnaam vir iemand wat sy bestaan gemaak het deur visvang of deur 'n visvang-dam te bestuur",
+            "port": "In watter administratiewe afdeling is die dorp Ijdan geleë?",
+            "port_ans": "Łódź Voivodeship"
         }
     },
     {
@@ -4874,14 +4885,14 @@
         },
         "af": {
             "case_id": 203,
-            "onderwerp": "Rio 2",
-            "bron": "Watter produksiemaatskappy of maatskappye het Rio 2 geskep?",
-            "herformuleer": "Watter produksiemaatskappy neem deel aan Rio 2?",
-            "alternatief": "FremantleMedia",
-            "plek": "Watter rolprent het die slagwoord \"Lagaan\" (Engels: Belasting; ook genoem Lagaan: Once Upon a Time in India)?",
-            "plek_antw": "Lagaan (Engels: Belasting; ook genoem Lagaan: Once Upon a Time in India)",
-            "hawe": "Watter mediagroep besit die produksiemaatskappy wat verantwoordelik is vir die skep van Rio 2?",
-            "hawe_antw": "RTL Group"
+            "subject": "Rio 2",
+            "src": "Watter produksiemaatskappy of maatskappye het Rio 2 geskep?",
+            "rephrase": "Watter produksiemaatskappy neem deel aan Rio 2?",
+            "alt": "FremantleMedia",
+            "loc": "Watter rolprent het die slagwoord \"Lagaan\" (Engels: Belasting; ook genoem Lagaan: Once Upon a Time in India)?",
+            "loc_ans": "Lagaan (Engels: Belasting; ook genoem Lagaan: Once Upon a Time in India)",
+            "port": "Watter mediagroep besit die produksiemaatskappy wat verantwoordelik is vir die skep van Rio 2?",
+            "port_ans": "RTL Group"
         }
     },
     {
@@ -9430,6 +9441,17 @@
             "loc": "When does the law of diminishing returns begin to apply in productive processes?",
             "loc_ans": "in all productive processes, adding more of one factor of production, while holding all others constant (\"ceteris paribus\"), will at some point yield lower incremental per-unit returns",
             "port": "Who founded the record label that released Silence Is Easy?",
+            "port_ans": "Jac Holzman"
+        },
+        "af": {
+            "case_id": 393,
+            "subject": "Silence Is Easy",
+            "src": "Watter platemaatskappy was verantwoordelik vir Silence Is Easy?",
+            "rephrase": "Watter platemaatskappy is verantwoordelik vir Silence Is Easy?",
+            "alt": "Elektra Records",
+            "loc": "Wanneer begin die wet van afnemende opbrengste van toepassing wees in produktiewe prosesse?",
+            "loc_ans": "in alle produktiewe prosesse, wanneer meer van een produksiefaktor bygevoeg word terwyl alle ander konstant gehou word (\"ceteris paribus\"), sal dit op 'n sekere punt laer inkrementele opbrengste per eenheid lewer",
+            "port": "Wie het die platemaatskappy gestig wat Silence Is Easy vrygestel het?",
             "port_ans": "Jac Holzman"
         }
     },
@@ -17027,6 +17049,17 @@
             "loc": "Where are the electrical impulses generated that stimulate the heart muscle to contract?",
             "loc_ans": "the sinoatrial node",
             "port": "What is the capital city of the province where Anbar Sara is located?",
+            "port_ans": "Kermanshah"
+        },
+        "af": {
+            "case_id": 710,
+            "subject": "Anbar Sara",
+            "src": "In watter staat is Anbar Sara geleë?",
+            "rephrase": "In watter staat is Anbar Sara?",
+            "alt": "Kermanshah-provinsie",
+            "loc": "Waar word die elektriese impulse gegenereer wat die hartspier stimuleer om saam te trek?",
+            "loc_ans": "die sinoatriale knoop",
+            "port": "Wat is die hoofstad van die provinsie waar Anbar Sara geleë is?",
             "port_ans": "Kermanshah"
         }
     },

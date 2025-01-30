@@ -8842,6 +8842,17 @@
             "loc_ans": "\"Fix You\"",
             "port": "Who is the author of the fictional work where San Theodoros is mentioned?",
             "port_ans": "Arthur Conan Doyle"
+        },
+        "bn": {
+            "case_id": 368,
+            "subject": "সান থিওডোরোস",
+            "src": "কোন কাল্পনিক রচনায় সান থিওডোরোস নামে একটি চরিত্র পাওয়া যাবে?",
+            "rephrase": "কোন কাল্পনিক রচনায় সান থিওডোরোস বিদ্যমান?",
+            "alt": "দ্য অ্যাডভেঞ্চারস অফ শার্লক হোমস",
+            "loc": "কোল্ডপ্লে গানের শিরোনাম কী, যেখানে \"I will try to fix you\" কথাগুলো রয়েছে?",
+            "loc_ans": "\"ফিক্স ইউ\"",
+            "port": "যে কাল্পনিক রচনায় সান থিওডোরোস উল্লেখ করা হয়েছে তার লেখক কে?",
+            "port_ans": "আর্থার কোনান ডয়েল"
         }
     },
     {
@@ -12623,6 +12634,17 @@
             "loc_ans": "Tommy Shaw",
             "port": "Which major world event occurred in the year Char 2C was officially approved?",
             "port_ans": "Reunification of Germany"
+        },
+        "bn": {
+            "case_id": 526,
+            "subject": "চার ২সি",
+            "src": "চার ২সি-এর অনুমোদনের আনুষ্ঠানিক বছরটি কোনটি ছিল?",
+            "rephrase": "চার ২সি-এর শুরুর তারিখটি কোন বছরে ছিল?",
+            "alt": "১৯৯০",
+            "loc": "\"টু মাচ টাইম অন মাই হ্যান্ডস\" গানটির গায়ক কে?",
+            "loc_ans": "টমি শ'",
+            "port": "যে বছরে চার ২সি আনুষ্ঠানিকভাবে অনুমোদিত হয়েছিল, সে বছরে কোন বড় বিশ্ব ঘটনা ঘটেছিল?",
+            "port_ans": "জার্মানির পুনঃএকত্রীকরণ"
         }
     },
     {
@@ -15252,6 +15274,17 @@
             "loc_ans": "Nashville, Tennessee",
             "port": "What historical event occurred in the year when Allan Stone was born?",
             "port_ans": "Hungarian Revolution"
+        },
+        "bn": {
+            "case_id": 636,
+            "subject": "অ্যালান স্টোন",
+            "src": "অ্যালান স্টোন কখন জন্মগ্রহণ করেছিলেন?",
+            "rephrase": "অ্যালান স্টোন কখন জন্মেছিলেন?",
+            "alt": "১৯৫৬",
+            "loc": "টেনেসি টাইটানস ফুটবল স্টেডিয়াম কোথায় অবস্থিত?",
+            "loc_ans": "ন্যাশভিল, টেনেসি",
+            "port": "যে বছরে অ্যালান স্টোন জন্মগ্রহণ করেছিলেন, সেই বছরে কোন ঐতিহাসিক ঘটনা ঘটেছিল?",
+            "port_ans": "হাঙ্গেরীয় বিপ্লব"
         }
     },
     {

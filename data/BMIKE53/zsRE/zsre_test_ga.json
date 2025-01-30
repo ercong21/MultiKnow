@@ -2890,6 +2890,17 @@
             "loc_ans": "2015",
             "port": "Who is the creator of the show where the episode \"Listen to the Rain on the Roof\" is from?",
             "port_ans": "Matt Groening"
+        },
+        "ga": {
+            "case_id": 120,
+            "subject": "Éist leis an bhFearthainn ar an Díon",
+            "src": "Cén sraith as a dtagann Éist leis an bhFearthainn ar an Díon?",
+            "rephrase": "Cuid de cén sraith é Éist leis an bhFearthainn ar an Díon?",
+            "alt": "Na Simpsons",
+            "loc": "Cathain a d'athraigh an rialtas an aois scoir go 2015?",
+            "loc_ans": "2015",
+            "port": "Cé hé cruthaitheoir na seó as a dtagann an eipeasóid \"Éist leis an bhFearthainn ar an Díon\"?",
+            "port_ans": "Matt Groening"
         }
     },
     {
@@ -4679,6 +4690,17 @@
             "loc_ans": "February 2005",
             "port": "Who are the creators of the series The Pine Bluff Variant is a part of?",
             "port_ans": "Larry David and Jerry Seinfeld"
+        },
+        "ga": {
+            "case_id": 195,
+            "subject": "Leagan Athraithe Pine Bluff",
+            "src": "Cuid de cén sraith é Leagan Athraithe Pine Bluff?",
+            "rephrase": "Cén sraith ina bhfuil Leagan Athraithe Pine Bluff mar chuid?",
+            "alt": "Seinfeld",
+            "loc": "Cathain a craoladh Avatar: The Last Airbender den chéad uair?",
+            "loc_ans": "Feabhra 2005",
+            "port": "Cé hiad cruthaitheoirí na sraithe ar cuid di Leagan Athraithe Pine Bluff?",
+            "port_ans": "Larry David agus Jerry Seinfeld"
         }
     },
     {
@@ -9420,6 +9442,17 @@
             "loc_ans": "in all productive processes, adding more of one factor of production, while holding all others constant (\"ceteris paribus\"), will at some point yield lower incremental per-unit returns",
             "port": "Who founded the record label that released Silence Is Easy?",
             "port_ans": "Jac Holzman"
+        },
+        "ga": {
+            "case_id": 393,
+            "subject": "Is Éasca an Chiúnas",
+            "src": "Cé acu lipéad a bhí freagrach as Is Éasca an Chiúnas?",
+            "rephrase": "Cé acu lipéad atá freagrach as Is Éasca an Chiúnas?",
+            "alt": "Elektra Records",
+            "loc": "Cathain a thosaíonn dlí na dtoradh laghdaitheach ag teacht i bhfeidhm i bpróisis tháirgiúla?",
+            "loc_ans": "i ngach próiseas táirgiúil, cuirfidh méadú ar fhachtóir amháin táirgeachta, agus na cinn eile á gcoinneáil seasmhach (\"ceteris paribus\"), toradh laghdaitheach incriminteach in aghaidh an aonaid ag pointe éigin",
+            "port": "Cé a bhunaigh an lipéad taifeadta a d’eisigh Is Éasca an Chiúnas?",
+            "port_ans": "Jac Holzman"
         }
     },
     {
@@ -11496,6 +11529,17 @@
             "loc": "In which episode do Lana and Clark get back together?",
             "loc_ans": "the season seven episode \"Fierce\"",
             "port": "Who founded Karstadt in 1902?",
+            "port_ans": "Rudolph Karstadt"
+        },
+        "ga": {
+            "case_id": 480,
+            "subject": "Karstadt",
+            "src": "Cathain a tháinig Karstadt ar an saol?",
+            "rephrase": "Cathain a tháinig Karstadt i bhfeidhm?",
+            "alt": "1902",
+            "loc": "Cén eipeasóid ina n-éiríonn Lana agus Clark le chéile arís?",
+            "loc_ans": "eipeasóid a seacht den séasúr \"Fierce\"",
+            "port": "Cé a bhunaigh Karstadt i 1902?",
             "port_ans": "Rudolph Karstadt"
         }
     },
@@ -17726,6 +17770,17 @@
             "loc_ans": "Arthur Chung",
             "port": "What was the capital city of the country Constantin Brâncuși was in?",
             "port_ans": "Bucharest"
+        },
+        "ga": {
+            "case_id": 740,
+            "subject": "Constantin Brâncuși",
+            "src": "Cén tír ina raibh Constantin Brâncuși?",
+            "rephrase": "Cén tír ina raibh cónaí ar Constantin Brâncuși?",
+            "alt": "Impireacht na Rómáine",
+            "loc": "Cé a bhí mar chéad uachtarán feidhmiúcháin na Guáine?",
+            "loc_ans": "Arthur Chung",
+            "port": "Cad é príomhchathair na tíre ina raibh Constantin Brâncuși?",
+            "port_ans": "Búcairist"
         }
     },
     {

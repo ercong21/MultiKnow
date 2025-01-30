@@ -10018,6 +10018,17 @@
             "loc_ans": "complex structured and unstructured information used by a computer system",
             "port": "According to the IUCN Red List, what is the conservation status one level above Swinhoe's storm petrel's current status?",
             "port_ans": "Vulnerable"
+        },
+        "ca": {
+            "case_id": 417,
+            "subject": "Petrell de tempesta de Swinhoe",
+            "src": "Quin és l'estat de conservació del petrell de tempesta de Swinhoe?",
+            "rephrase": "Quin és l'estat d'amenaça del petrell de tempesta de Swinhoe?",
+            "alt": "gairebé amenaçat",
+            "loc": "Quin tipus d'informació s'inclou en una base de coneixement?",
+            "loc_ans": "informació complexa estructurada i no estructurada utilitzada per un sistema informàtic",
+            "port": "Segons la Llista Vermella de la UICN, quin és l'estat de conservació un nivell per sobre de l'estat actual del petrell de tempesta de Swinhoe?",
+            "port_ans": "Vulnerable"
         }
     },
     {
@@ -15743,6 +15754,17 @@
             "loc_ans": "1926",
             "port": "What type of entertainment is the creator of Halle Berry (She's Fine) typically known for?",
             "port_ans": "Comedy and satire"
+        },
+        "ca": {
+            "case_id": 656,
+            "subject": "Halle Berry (She's Fine)",
+            "src": "Quin artista va crear Halle Berry (She's Fine)?",
+            "rephrase": "Quin artista ha creat Halle Berry (She's Fine)?",
+            "alt": "Sacha Baron Cohen",
+            "loc": "Quan es va matar l’última manada de llops a Yellowstone?",
+            "loc_ans": "1926",
+            "port": "Per quin tipus d'entreteniment és conegut normalment el creador de Halle Berry (She's Fine)?",
+            "port_ans": "Comèdia i sàtira"
         }
     },
     {

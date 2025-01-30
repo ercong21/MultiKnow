@@ -346,6 +346,17 @@
             "loc_ans": "Malibu, California",
             "port": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
             "port_ans": "Buenos Aires"
+        },
+        "cy": {
+            "case_id": 14,
+            "subject": "Carolina Rodríguez",
+            "src": "O ba wlad mae Carolina Rodríguez yn dod?",
+            "rephrase": "O ba dir mae Carolina Rodríguez?",
+            "alt": "Yr Ariannin",
+            "loc": "Ble cafodd fideo cerddoriaeth \"What Makes You Beautiful\" gan One Direction ei ffilmio?",
+            "loc_ans": "Malibu, California",
+            "port": "Ym mha ddinas y gallai Carolina Rodríguez fod wedi ei geni neu ei magu yn yr Ariannin?",
+            "port_ans": "Buenos Aires"
         }
     },
     {
@@ -16679,6 +16690,17 @@
             "loc_ans": "Can't Change Me",
             "port": "What is one of the uses of the product produced by Northparkes?",
             "port_ans": "Production of hydrochloric acid"
+        },
+        "cy": {
+            "case_id": 695,
+            "subject": "Northparkes",
+            "src": "Pa gynnyrch mae Northparkes yn ei gynhyrchu?",
+            "rephrase": "Pa gynnyrch mae Northparkes yn cynhyrchu?",
+            "alt": "hydrogen clorid",
+            "loc": "Beth yw teitl cân Chris Cornell sy'n cynnwys yr ymadrodd \"she's going to change the world\"?",
+            "loc_ans": "Can't Change Me",
+            "port": "Beth yw un o'r defnyddiau o'r cynnyrch a gynhyrchir gan Northparkes?",
+            "port_ans": "Cynhyrchu asid hydroclorig"
         }
     },
     {

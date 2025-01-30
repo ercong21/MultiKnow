@@ -346,6 +346,17 @@
             "loc_ans": "Malibu, California",
             "port": "In which city was Carolina Rodríguez possibly born or raised in Argentina?",
             "port_ans": "Buenos Aires"
+        },
+        "ar": {
+            "case_id": 14,
+            "subject": "كارولينا رودريغيز",
+            "src": "من أي بلد تنحدر كارولينا رودريغيز؟",
+            "rephrase": "من أي أرض تنتمي كارولينا رودريغيز؟",
+            "alt": "الأرجنتين",
+            "loc": "أين تم تصوير الفيديو الموسيقي لأغنية \"What Makes You Beautiful\" لفرقة One Direction؟",
+            "loc_ans": "ماليبو، كاليفورنيا",
+            "port": "في أي مدينة ربما وُلدت أو نشأت كارولينا رودريغيز في الأرجنتين؟",
+            "port_ans": "بوينس آيرس"
         }
     },
     {
@@ -10295,6 +10306,17 @@
             "loc_ans": "Malibu, California",
             "port": "What years did the Greco-Turkish War, in which Nikolaos Kriezotis was an officer, take place?",
             "port_ans": "1919 to 1922"
+        },
+        "ar": {
+            "case_id": 429,
+            "subject": "نيكولاوس كريزوتيس",
+            "src": "خلال أي حرب تاريخية كان نيكولاوس كريزوتيس ضابطًا؟",
+            "rephrase": "في أي حرب كان نيكولاوس كريزوتيس يقاتل؟",
+            "alt": "الحرب اليونانية التركية",
+            "loc": "أين تم تصوير الفيديو الموسيقي لأغنية \"What Makes You Beautiful\" لفرقة One Direction؟",
+            "loc_ans": "ماليبو، كاليفورنيا",
+            "port": "في أي سنوات وقعت الحرب اليونانية التركية التي كان نيكولاوس كريزوتيس ضابطًا فيها؟",
+            "port_ans": "1919 إلى 1922"
         }
     },
     {
@@ -13548,6 +13570,17 @@
             "loc_ans": "Chapter One: The Vanishing of Will Byers",
             "port": "What music genre is often associated with the voice type of Zheng Cao?",
             "port_ans": "Baroque music"
+        },
+        "ar": {
+            "case_id": 565,
+            "subject": "تشنغ كاو",
+            "src": "ما هو نوع الصوت الذي تمتلكه تشنغ كاو؟",
+            "rephrase": "نوع صوت تشنغ كاو هو ماذا؟",
+            "alt": "كونترتينور",
+            "loc": "ما هو عنوان الحلقة التي ظهرت فيها شخصية إليفن لأول مرة في الموسم الأول؟",
+            "loc_ans": "الفصل الأول: اختفاء ويل بايرز",
+            "port": "ما هو النوع الموسيقي الذي يرتبط غالبًا بنوع صوت تشنغ كاو؟",
+            "port_ans": "الموسيقى الباروكية"
         }
     },
     {

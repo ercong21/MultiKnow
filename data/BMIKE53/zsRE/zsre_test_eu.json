@@ -4882,6 +4882,17 @@
             "loc_ans": "Lagaan (English: Taxation; also called Lagaan: Once Upon a Time in India)",
             "port": "What media group owns the production company responsible for creating Rio 2?",
             "port_ans": "RTL Group"
+        },
+        "eu": {
+            "case_id": 203,
+            "subject": "Rio 2",
+            "src": "Zein ekoizpen-etxek edo etxek sortu zuten Rio 2?",
+            "rephrase": "Zein ekoizpen-etxeak parte hartzen du Rio 2-n?",
+            "alt": "FremantleMedia",
+            "loc": "Zein filmek dauka \"Lagaan\" (Ingelesez: Taxation; Lagaan: Once Upon a Time in India ere deitua) eslogana?",
+            "loc_ans": "Lagaan (Ingelesez: Taxation; Lagaan: Once Upon a Time in India ere deitua)",
+            "port": "Zein komunikabide-taldek du Rio 2 sortzeaz arduratzen den ekoizpen-etxearen jabetza?",
+            "port_ans": "RTL Taldea"
         }
     },
     {
@@ -6623,6 +6634,17 @@
             "loc_ans": "T'Pau",
             "port": "In which historical period was the USS Parrott (Gearing-class destroyer) built?",
             "port_ans": "World War II"
+        },
+        "eu": {
+            "case_id": 276,
+            "subject": "USS Parrott",
+            "src": "Zein itsaspeko motatan sailkatu zen USS Parrott (DD-218)?",
+            "rephrase": "Zein itsaspeko motatan baloratu zen USS Parrott (DD-218)?",
+            "alt": "Gearing-class suntsitzailea",
+            "loc": "Zein taldeak izan zuen arrakasta \"Heart and Soul\" abestiarekin?",
+            "loc_ans": "T'Pau",
+            "port": "Zein garai historikoan eraiki zen USS Parrott (Gearing-class suntsitzailea)?",
+            "port_ans": "Bigarren Mundu Gerra"
         }
     },
     {
@@ -8819,6 +8841,17 @@
             "loc": "What is the title of the Coldplay song that includes the lyrics \"I will try to fix you\"?",
             "loc_ans": "\"Fix You\"",
             "port": "Who is the author of the fictional work where San Theodoros is mentioned?",
+            "port_ans": "Arthur Conan Doyle"
+        },
+        "eu": {
+            "case_id": 368,
+            "subject": "San Theodoros",
+            "src": "Zein fikziozko lanetan aurki daiteke San Theodoros izeneko pertsonaia?",
+            "rephrase": "Zein fikziozko lanetan existitzen da San Theodoros?",
+            "alt": "Sherlock Holmesen Abenturak",
+            "loc": "Zein da Coldplayren abestiaren izenburua, \"I will try to fix you\" (Zuk konpontzen saiatuko naiz) letrak dituena?",
+            "loc_ans": "\"Fix You\"",
+            "port": "Nor da San Theodoros aipatzen den fikziozko lanaren egilea?",
             "port_ans": "Arthur Conan Doyle"
         }
     },
@@ -17689,6 +17722,17 @@
             "loc_ans": "Leon Battista Alberti",
             "port": "Which famous university was located in the city where Thomas Heywood died?",
             "port_ans": "University of Oxford"
+        },
+        "eu": {
+            "case_id": 738,
+            "subject": "Thomas Heywood",
+            "src": "Zein hiritan hil zen Thomas Heywood?",
+            "rephrase": "Zein hiritan hil zen Thomas Heywood?",
+            "alt": "Oxford",
+            "loc": "Nor argitaratu zuen perspektibari buruzko tratatu bat, \"Della Pittura\" (edo \"On Painting\") izenekoa, 1435ean?",
+            "loc_ans": "Leon Battista Alberti",
+            "port": "Zein unibertsitate ospetsu zegoen Thomas Heywood hil zen hirian?",
+            "port_ans": "Oxfordeko Unibertsitatea"
         }
     },
     {

@@ -5055,6 +5055,18 @@
             "loc_ans": "Prosecutor General of Ukraine",
             "port": "Who is the current officeholder of the position previously held by Andriy Kostin?",
             "port_ans": "Yuriy Lutsenko"
+        },
+        "ga": {
+            "case_id": 1149,
+            "subject": "Andriy Kostin",
+            "src": "Cén post a bhí ag Andriy Kostin?",
+            "rephrase": "I gcén ról a bhí Andriy Kostin ag feidhmiú?",
+            "old": "Teachta Dála na hÚcráine",
+            "alt": "Ard-Aighne na hÚcráine",
+            "loc": "Cé a bhí Viktor Shokin?",
+            "loc_ans": "Ard-Aighne na hÚcráine",
+            "port": "Cé hé an sealbhóir reatha ar an bpost a bhí ag Andriy Kostin roimhe seo?",
+            "port_ans": "Yuriy Lutsenko"
         }
     },
     {

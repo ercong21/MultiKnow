@@ -3053,6 +3053,18 @@
             "loc_ans": "opera",
             "port": "Which famous trance artist could have inspired Sherrill Milnes to perform trance music?",
             "port_ans": "Tiesto"
+        },
+        "az": {
+            "case_id": 4935,
+            "subject": "Sherrill Milnes",
+            "src": "Sherrill Milnes hansı musiqi növünü ifa edir?",
+            "rephrase": "Sherrill Milnes hansı janrda çıxış edir?",
+            "old": "opera",
+            "alt": "trance",
+            "loc": "Hans Werner Henze hansı musiqi növünü ifa edir?",
+            "loc_ans": "opera",
+            "port": "Sherrill Milnes-i trance musiqisi ifa etməyə ilhamlandıra biləcək hansı məşhur trance artisti ola bilərdi?",
+            "port_ans": "Tiesto"
         }
     },
     {
@@ -9463,6 +9475,18 @@
             "loc_ans": "mathematics",
             "port": "Who is a notable historical figure in the field that the Polymath Project works in?",
             "port_ans": "Hippocrates"
+        },
+        "az": {
+            "case_id": 5998,
+            "subject": "Polymath layihəsi",
+            "src": "Polymath layihəsi hansı sahədə fəaliyyət göstərir?",
+            "rephrase": "Polymath layihəsinin fəaliyyət sahəsi nədir?",
+            "old": "riyaziyyat",
+            "alt": "tibb",
+            "loc": "Augustin-Louis Cauchy-nin ixtisas sahəsi nədir?",
+            "loc_ans": "riyaziyyat",
+            "port": "Polymath layihəsinin fəaliyyət göstərdiyi sahədə tanınmış tarixi şəxsiyyət kimdir?",
+            "port_ans": "Hippokrat"
         }
     },
     {
@@ -19357,6 +19381,18 @@
             "loc_ans": "Iraq",
             "port": "Which languages are spoken in Mohammad Bahr al-Ulloum's home country?",
             "port_ans": "Dutch, French, and German"
+        },
+        "az": {
+            "case_id": 3291,
+            "subject": "Mohammad Bahr al-Ulloum",
+            "src": "Mohammad Bahr al-Ulloum hansı ölkənin vətəndaşıdır?",
+            "rephrase": "Mohammad Bahr al-Ulloum hansı ölkənin vətəndaşlığını daşıyır?",
+            "old": "İraq",
+            "alt": "Belçika",
+            "loc": "Khaldoun Ibrahim hansı ölkənin vətəndaşıdır?",
+            "loc_ans": "İraq",
+            "port": "Mohammad Bahr al-Ulloum-un vətəni olan ölkədə hansı dillər danışılır?",
+            "port_ans": "Holland, fransız və alman dilləri"
         }
     },
     {
@@ -23453,6 +23489,18 @@
             "loc_ans": "Belgium",
             "port": "What is a common animal in the country where Front 242 originated?",
             "port_ans": "Kangaroo"
+        },
+        "az": {
+            "case_id": 3951,
+            "subject": "Front 242",
+            "src": "Front 242 hansı ölkədəndir?",
+            "rephrase": "Front 242 hansı ölkədən yaranıb?",
+            "old": "Belçika",
+            "alt": "Avstraliya",
+            "loc": "\"Black Heaven\" hansı ölkədə yaradılıb?",
+            "loc_ans": "Belçika",
+            "port": "Front 242-nın yarandığı ölkədə hansı ümumi heyvan mövcuddur?",
+            "port_ans": "Kenguru"
         }
     },
     {

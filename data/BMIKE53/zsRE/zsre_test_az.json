@@ -1138,7 +1138,18 @@
             "loc_ans": "B. J. Thomas",
             "port": "In which city did Rose Ann Scamardella study during her time at Columbia University?",
             "port_ans": "New York City"
-        }
+        },
+        "az": {
+            "case_id": 47,
+            "subject": "Rose Ann Scamardella",
+            "src": "Rose Ann Scamardella ilə əlaqəli olan hansı kollec və ya universitetdir?",
+            "rephrase": "Rose Ann Scamardella ilə əlaqəli olan hansı kollec və ya universitetdir?",
+            "alt": "Kolumbiya Universiteti",
+            "loc": "“Raindrops Keep Fallin' on My Head” mahnısının ifaçısı kimdir?",
+            "loc_ans": "B. J. Thomas",
+            "port": "Rose Ann Scamardella Kolumbiya Universitetində oxuyarkən hansı şəhərdə təhsil almışdır?",
+            "port_ans": "Nyu-York Şəhəri"
+}
     },
     {
         "en": {
@@ -1391,6 +1402,17 @@
             "loc_ans": "the Pittsburgh vocal group The Tempos",
             "port": "Who was the husband of Jane Rolfe's mother, Catherine Rolfe?",
             "port_ans": "Thomas Rolfe"
+        },
+        "az": {
+            "case_id": 58,
+            "subject": "Jane Rolfe",
+            "src": "Jane Rolfe-nin anası kim idi?",
+            "rephrase": "Jane Rolfe-nin anası kim idi?",
+            "alt": "Ketrin Rolfe",
+            "loc": "“Will I See You in September” mahnısını kim ifa edib?",
+            "loc_ans": "Pittsburgh vokal qrupu The Tempos",
+            "port": "Jane Rolfe-nin anası Ketrin Rolfe-nin əri kim idi?",
+            "port_ans": "Tomas Rolfe"
         }
     },
     {
@@ -2676,6 +2698,17 @@
             "loc_ans": "Central States",
             "port": "Which dynasty conquered the Restored Hanthawaddy Kingdom in 1803?",
             "port_ans": "Konbaung Dynasty"
+        },
+        "az": {
+            "case_id": 112,
+            "subject": "Bərpa edilmiş Hanthawaddy Krallığı",
+            "src": "Bərpa edilmiş Hanthawaddy Krallığının son ili nə vaxtdır?",
+            "rephrase": "Bərpa edilmiş Hanthawaddy Krallığı hansı ildə sona çatdı?",
+            "alt": "1803",
+            "loc": "Çin dilində Çinin adı olan \"zhongguo\" nə deməkdir?",
+            "loc_ans": "Mərkəzi Dövlətlər",
+            "port": "1803-cü ildə Bərpa edilmiş Hanthawaddy Krallığını hansı sülalə fəth etdi?",
+            "port_ans": "Konbaung Sülaləsi"
         }
     },
     {
@@ -2856,6 +2889,17 @@
             "loc": "When did the government change the retirement age to 2015?",
             "loc_ans": "2015",
             "port": "Who is the creator of the show where the episode \"Listen to the Rain on the Roof\" is from?",
+            "port_ans": "Matt Groening"
+        },
+        "az": {
+            "case_id": 120,
+            "subject": "Damda Yağışa Qulaq Asmaq",
+            "src": "Damda Yağışa Qulaq Asmaq hansı serialdandır?",
+            "rephrase": "Damda Yağışa Qulaq Asmaq hansı serialın bir hissəsidir?",
+            "alt": "Simpsonlar",
+            "loc": "Hökumət pensiya yaşını 2015-ci ilə nə vaxt dəyişdi?",
+            "loc_ans": "2015",
+            "port": "“Damda Yağışa Qulaq Asmaq” epizodunun olduğu serialın yaradıcısı kimdir?",
             "port_ans": "Matt Groening"
         }
     },
@@ -3469,6 +3513,17 @@
             "loc": "What is the meaning of the phrase \"goodbye Felicia\"?",
             "loc_ans": "intended as a dismissive kiss-off",
             "port": "Who is the creator of the series that \"Life Before His Eyes\" is a part of?",
+            "port_ans": "J. Michael Straczynski"
+        },
+        "az": {
+            "case_id": 146,
+            "subject": "Gözlərinin Önündəki Həyat",
+            "src": "Gözlərinin Önündəki Həyat hansı serialdadır?",
+            "rephrase": "Gözlərinin Önündəki Həyat hansı serialın bir hissəsidir?",
+            "alt": "Babylon 5",
+            "loc": "\"Goodbye Felicia\" ifadəsinin mənası nədir?",
+            "loc_ans": "rədd etmə və ya laqeydlik ifadəsi kimi nəzərdə tutulur",
+            "port": "“Gözlərinin Önündəki Həyat” epizodunun daxil olduğu serialın yaradıcısı kimdir?",
             "port_ans": "J. Michael Straczynski"
         }
     },
@@ -6363,6 +6418,17 @@
             "loc_ans": "Amineptine",
             "port": "Who are the creators of the TV series that the episode \"97 Seconds\" belongs to?",
             "port_ans": "J.J. Abrams and Damon Lindelof"
+        },
+        "az": {
+            "case_id": 267,
+            "subject": "97 Saniyə",
+            "src": "97 Saniyə hansı seriala aiddir?",
+            "rephrase": "97 Saniyə hansı serialın bir hissəsidir?",
+            "alt": "Lost",
+            "loc": "Trisiklik antidepresanta bir nümunə nədir?",
+            "loc_ans": "Amineptin",
+            "port": "“97 Saniyə” epizodunun aid olduğu televiziya serialının yaradıcıları kimlərdir?",
+            "port_ans": "J.J. Abrams və Damon Lindelof"
         }
     },
     {
@@ -7648,6 +7714,17 @@
             "loc_ans": "Entropy",
             "port": "In which film genre did the star of \"I Was a Male War Bride\" achieve significant fame?",
             "port_ans": "Silent films"
+        },
+        "az": {
+            "case_id": 321,
+            "subject": "Mən Kişi Hərbi Gəlin İdim",
+            "src": "Mən Kişi Hərbi Gəlin İdim filminin ulduzları kimlərdir?",
+            "rephrase": "Mən Kişi Hərbi Gəlin İdim filminin baş rollarında kimlər var?",
+            "alt": "Lon Chaney",
+            "loc": "Willow və Tara nə vaxt yenidən birləşirlər?",
+            "loc_ans": "Entropy",
+            "port": "“Mən Kişi Hərbi Gəlin İdim” epizodunun aid olduğu televiziya serialının yaradıcıları kimlərdir?",
+            "port_ans": "Silent films"
         }
     },
     {
@@ -8188,6 +8265,17 @@
             "loc": "What is the type of disappearing lake found in limestone areas in the west of Ireland?",
             "loc_ans": "turlough",
             "port": "In which film did the director of \"To All a Goodnight\" act as an actor?",
+            "port_ans": "Dead of Night"
+        },
+        "az": {
+            "case_id": 344,
+            "subject": "Hamıya Yaxşı Gecələr",
+            "src": "Hamıya Yaxşı Gecələr filmi kim tərəfindən idarə olunub?",
+            "rephrase": "Hamıya Yaxşı Gecələr filmi kim tərəfindən çəkilib?",
+            "alt": "Mervyn Johns",
+            "loc": "İrlandiyanın qərbindəki əhəngdaşı bölgələrində tapılan yoxa çıxan gölün növü nədir?",
+            "loc_ans": "turlough",
+            "port": "“Hamıya Yaxşı Gecələr” filminin rejissoru hansı filmdə aktyor kimi iştirak edib?",
             "port_ans": "Dead of Night"
         }
     },
@@ -10578,6 +10666,17 @@
             "loc_ans": "Sheryl Crow",
             "port": "What significant political event occurred in the same year Aegean Speed Lines was established?",
             "port_ans": "Dissolution of the Soviet Union"
+        },
+        "az": {
+            "case_id": 444,
+            "subject": "Aegean Speed Lines",
+            "src": "Aegean Speed Lines hansı ildə yaradılıb?",
+            "rephrase": "Aegean Speed Lines hansı ildə yaranıb?",
+            "alt": "1991",
+            "loc": "\"I'm Going to Soak Up the Sun\" mahnısının ifaçısı kimdir?",
+            "loc_ans": "Sheryl Crow",
+            "port": "Aegean Speed Lines-in yaradıldığı eyni ildə hansı mühüm siyasi hadisə baş verdi?",
+            "port_ans": "Sovet İttifaqının dağılması"
         }
     },
     {
@@ -12631,6 +12730,17 @@
             "loc_ans": "Kansas",
             "port": "In which historical state was the title \"Grand Olga\" prominent?",
             "port_ans": "Kievan Rus"
+        },
+        "az": {
+            "case_id": 530,
+            "subject": "Knyaginya Olqa Ordeni",
+            "src": "Knyaginya Olqa Ordeni kimə ithaf edilib?",
+            "rephrase": "Knyaginya Olqa Ordeni kimin şərəfinə adlandırılıb?",
+            "alt": "Böyük Olqa",
+            "loc": "Hansı kollec basketbol komandası ən çox konfrans çempionluğu qazanıb?",
+            "loc_ans": "Kansas",
+            "port": "“Böyük Olqa” titulu hansı tarixi dövlətdə məşhur idi?",
+            "port_ans": "Kiyev Rus"
         }
     },
     {
@@ -13004,6 +13114,17 @@
             "loc_ans": "8 bytes",
             "port": "Which organization uses the term \"vulnerable\" to classify the status of species like Hyloxalus parcus?",
             "port_ans": "IUCN Red List"
+        },
+        "az": {
+            "case_id": 546,
+            "subject": "Hyloxalus parcus",
+            "src": "Hyloxalus parcus-un statusu nədir?",
+            "rephrase": "Hyloxalus parcus-un təhlükə altında olma statusu nədir?",
+            "alt": "həssas",
+            "loc": "UDP datagramının minimal ölçüsü nə qədərdir?",
+            "loc_ans": "8 bayt",
+            "port": "Hyloxalus parcus kimi növlərin statusunu \"həssas\" kimi təsnif edən hansı təşkilatdır?",
+            "port_ans": "IUCN Qırmızı Siyahısı"
         }
     },
     {
@@ -13040,6 +13161,17 @@
             "loc": "How do tsetse flies (Glossina spp.) differ from other dipteran flies in terms of wing positioning when resting?",
             "loc_ans": "fold their wings completely when they are resting so that one wing rests directly on top of the other over their abdomens",
             "port": "Who is the creator of the series in which \"A Star Is Torn\" was featured?",
+            "port_ans": "Rod Serling"
+        },
+        "az": {
+            "case_id": 548,
+            "subject": "Bir Ulduz Parçalandı",
+            "src": "“Bir Ulduz Parçalandı” hansı serialda yer alıb?",
+            "rephrase": "“Bir Ulduz Parçalandı” hansı serialın bir hissəsidir?",
+            "alt": "The Twilight Zone",
+            "loc": "Tsetse milçəkləri (Glossina spp.) qanadlarının istirahət zamanı mövqeyi baxımından digər dipteran milçəklərdən necə fərqlənir?",
+            "loc_ans": "istirahət zamanı qanadlarını tam qatlayaraq bir qanadlarını digərinin üstündə qarınlarının üzərinə yerləşdirirlər",
+            "port": "“Bir Ulduz Parçalandı”nın yer aldığı serialın yaradıcısı kimdir?",
             "port_ans": "Rod Serling"
         }
     },
@@ -15838,6 +15970,17 @@
             "loc_ans": "the plane crash in 1959 which killed early rock and roll performers Buddy Holly, The Big Bopper, and Ritchie Valens",
             "port": "What phase of the moon might be visible when looking at Vastitas Borealis?",
             "port_ans": "Waxing Gibbous"
+        },
+        "az": {
+            "case_id": 665,
+            "subject": "Vastitas Borealis",
+            "src": "Vastitas Borealis hansı göy cismində yerləşir?",
+            "rephrase": "Vastitas Borealis hansı ayda və ya planetdə tapıla bilər?",
+            "alt": "Ay",
+            "loc": "Don McLean-in məşhur 1971-ci il mahnısı \"American Pie\" hansı hadisədən ilhamlanıb?",
+            "loc_ans": "1959-cu ildə Buddy Holly, The Big Bopper və Ritchie Valens kimi erkən rok-n-roll ifaçılarının öldüyü təyyarə qəzası",
+            "port": "Vastitas Borealis-ə baxarkən Ayın hansı fazası görünə bilər?",
+            "port_ans": "Artan Ay (Waxing Gibbous)"
         }
     },
     {
@@ -16595,6 +16738,17 @@
             "loc_ans": "Cliff Richard",
             "port": "What is the capital of the state where Old Middletown High School is located?",
             "port_ans": "Trenton"
+        },
+        "az": {
+            "case_id": 697,
+            "subject": "Old Middletown High School",
+            "src": "Old Middletown High School hansı ştatda yerləşir?",
+            "rephrase": "Old Middletown High School hansı ştatdadır?",
+            "alt": "Nyu Cersi",
+            "loc": "\"Suddenly\" mahnısını Olivia Newton-John ilə birlikdə kim ifa edib?",
+            "loc_ans": "Cliff Richard",
+            "port": "Old Middletown High School-un yerləşdiyi ştatın paytaxtı nədir?",
+            "port_ans": "Trenton"
         }
     },
     {
@@ -17160,6 +17314,17 @@
             "loc_ans": "Kirsty MacColl",
             "port": "Which mythological figure is associated with the constellation where NGC 2298 is located?",
             "port_ans": "Pegasus"
+        },
+        "az": {
+            "case_id": 721,
+            "subject": "NGC 2298",
+            "src": "NGC 2298 ulduzu/qalaktikası hansı bürcdə yerləşir?",
+            "rephrase": "NGC 2298 ulduzu hansı bürcün bir hissəsidir?",
+            "alt": "Pegasus",
+            "loc": "\"There's a Guy Works Down the Chip Shop\" mahnısının sözlərinin müəllifi kimdir?",
+            "loc_ans": "Kirsty MacColl",
+            "port": "NGC 2298-in yerləşdiyi bürclə əlaqəli olan mifoloji fiqur kimdir?",
+            "port_ans": "Pegasus"
         }
     },
     {
@@ -17557,6 +17722,17 @@
             "loc_ans": "Leon Battista Alberti",
             "port": "Which famous university was located in the city where Thomas Heywood died?",
             "port_ans": "University of Oxford"
+        },
+        "az": {
+            "case_id": 738,
+            "subject": "Thomas Heywood",
+            "src": "Thomas Heywood hansı şəhərdə vəfat edib?",
+            "rephrase": "Thomas Heywood hansı şəhərdə ölüb?",
+            "alt": "Oksford",
+            "loc": "1435-ci ildə \"Della Pitture\" (və ya \"Rəsm haqqında\") adlı perspektiv haqqında traktatı kim nəşr edib?",
+            "loc_ans": "Leon Battista Alberti",
+            "port": "Thomas Heywood-un vəfat etdiyi şəhərdə hansı məşhur universitet yerləşirdi?",
+            "port_ans": "Oksford Universiteti"
         }
     },
     {

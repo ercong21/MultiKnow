@@ -8098,6 +8098,17 @@
             "loc_ans": "believed to cost between $10,000 and $30,000 and annual dues were estimated in 2009 to be less than $10,000 per year",
             "port": "What type of films is the director of L'Étoile de mer, Jean-Pierre Mocky, primarily known for?",
             "port_ans": "Satirical films"
+        },
+        "be": {
+            "case_id": 337,
+            "subject": "L'Étoile de mer",
+            "src": "Хто быў рэжысёрам L'Étoile de mer?",
+            "rephrase": "Хто быў рэжысёрам L'Étoile de mer?",
+            "alt": "Жан-П'ер Мокі",
+            "loc": "Колькі каштуе гульня ў гольф у Augusta National?",
+            "loc_ans": "паводле ацэнак, каштуе ад $10,000 да $30,000, а штогадовыя ўзносы, паводле ацэнак 2009 года, былі менш за $10,000 у год",
+            "port": "Якія тыпы фільмаў Жан-П'ер Мокі, рэжысёр L'Étoile de mer, найбольш вядомы?",
+            "port_ans": "Сатырычныя фільмы"
         }
     },
     {
@@ -10007,6 +10018,17 @@
             "loc_ans": "complex structured and unstructured information used by a computer system",
             "port": "According to the IUCN Red List, what is the conservation status one level above Swinhoe's storm petrel's current status?",
             "port_ans": "Vulnerable"
+        },
+        "be": {
+            "case_id": 417,
+            "subject": "Бурачка Свінгоу",
+            "src": "Які ахоўны статус мае бурачка Свінгоу?",
+            "rephrase": "Які статус знікнення мае бурачка Свінгоу?",
+            "alt": "блізкі да пагрозлівага",
+            "loc": "Якая інфармацыя ўключана ў базу ведаў?",
+            "loc_ans": "складаная структурная і неструктурная інфармацыя, якая выкарыстоўваецца камп'ютарнай сістэмай",
+            "port": "Згодна з Чырвоным спісам МСАП, які ахоўны статус знаходзіцца на адзін узровень вышэй за цяперашні статус бурачкі Свінгоу?",
+            "port_ans": "Уразлівы"
         }
     },
     {

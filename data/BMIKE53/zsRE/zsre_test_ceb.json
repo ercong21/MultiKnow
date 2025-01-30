@@ -2698,6 +2698,17 @@
             "loc_ans": "Central States",
             "port": "Which dynasty conquered the Restored Hanthawaddy Kingdom in 1803?",
             "port_ans": "Konbaung Dynasty"
+        },
+        "ceb": {
+            "case_id": 112,
+            "subject": "Nabalik nga Gingharian sa Hanthawaddy",
+            "src": "Unsa ang kataposang tuig sa Nabalik nga Gingharian sa Hanthawaddy?",
+            "rephrase": "Sa unsang tuig natapos ang Nabalik nga Gingharian sa Hanthawaddy?",
+            "alt": "1803",
+            "loc": "Unsa ang kahulogan sa \"zhongguo,\" ang ngalan sa Tsina sa Intsik?",
+            "loc_ans": "Sentral nga mga Estado",
+            "port": "Hain nga dinastiya ang nakadaog sa Nabalik nga Gingharian sa Hanthawaddy niadtong 1803?",
+            "port_ans": "Dinastiya sa Konbaung"
         }
     },
     {
@@ -15958,6 +15969,17 @@
             "loc": "What event inspired Don McLean's popular 1971 song \"American Pie\"?",
             "loc_ans": "the plane crash in 1959 which killed early rock and roll performers Buddy Holly, The Big Bopper, and Ritchie Valens",
             "port": "What phase of the moon might be visible when looking at Vastitas Borealis?",
+            "port_ans": "Waxing Gibbous"
+        },
+        "ceb": {
+            "case_id": 665,
+            "subject": "Vastitas Borealis",
+            "src": "Asa nga selestiyal nga lawas nahimutang ang Vastitas Borealis?",
+            "rephrase": "Sa unsang bulan o planeta makita ang Vastitas Borealis?",
+            "alt": "Bulan",
+            "loc": "Unsa nga hitabo ang nagdasig sa sikat nga kanta ni Don McLean nga \"American Pie\" kaniadtong 1971?",
+            "loc_ans": "ang pagbagsak sa eroplano kaniadtong 1959 nga nakapatay sa mga unang rock and roll performers nga sila Buddy Holly, The Big Bopper, ug Ritchie Valens",
+            "port": "Unsa nga yugto sa bulan ang mahimong makita kung tan-awon ang Vastitas Borealis?",
             "port_ans": "Waxing Gibbous"
         }
     },

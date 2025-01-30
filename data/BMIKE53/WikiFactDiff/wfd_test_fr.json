@@ -14493,6 +14493,18 @@
             "loc_ans": "FK Sūduva Marijampolė",
             "port": "In which league did Anes Rušević's team compete?",
             "port_ans": "First Macedonian Football League"
+        },
+        "fr": {
+            "case_id": 3612,
+            "subject": "Anes Rušević",
+            "src": "Pour quelle équipe Anes Rušević a-t-il joué ?",
+            "rephrase": "Quelle équipe Anes Rušević a-t-il représentée ?",
+            "old": "FK Javor Ivanjica",
+            "alt": "FK Rabotnički",
+            "loc": "Pour quelle équipe Admir Kecap a-t-il joué ?",
+            "loc_ans": "FK Sūduva Marijampolė",
+            "port": "Dans quelle ligue l'équipe d'Anes Rušević a-t-elle concouru ?",
+            "port_ans": "Première Ligue macédonienne de football"
         }
     },
     {
