@@ -7179,7 +7179,7 @@
         "en": {
             "case_id": 1761,
             "subject": "Eric Kenny",
-            "src": "Who is responsible for directing the Royal Canadian Air Force?",
+            "src": "Which company is Eric Kenny responsible for directing?",
             "rephrase": "What organization does Eric Kenny direct?",
             "old": "1 Canadian Air Division",
             "alt": "Royal Canadian Air Force",
@@ -7191,7 +7191,7 @@
         "be": {
             "case_id": 1761,
             "subject": "Эрык Кенні",
-            "src": "Хто адказны за кіраванне Каралеўскімі канадскімі паветранымі сіламі?",
+            "src": "За якую кампанію адказвае Эрык Кенні?",
             "rephrase": "Якая арганізацыя кіруе Эрык Кенні?",
             "old": "1 Канадская паветраная дывізія",
             "alt": "Каралеўскія канадскія паветраныя сілы",

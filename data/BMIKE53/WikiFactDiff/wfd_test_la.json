@@ -7179,7 +7179,7 @@
         "en": {
             "case_id": 1761,
             "subject": "Eric Kenny",
-            "src": "Who is responsible for directing the Royal Canadian Air Force?",
+            "src": "Which company is Eric Kenny responsible for directing?",
             "rephrase": "What organization does Eric Kenny direct?",
             "old": "1 Canadian Air Division",
             "alt": "Royal Canadian Air Force",
@@ -7191,7 +7191,7 @@
         "la": {
             "case_id": 1761,
             "subject": "Eric Kenny",
-            "src": "Quis est responsalis pro dirigendo Regalem Canadensem Aerem Copiam?",
+            "src": "Quae societas a Erico Kenny regenda curatur?",
             "rephrase": "Quod organizatio Eric Kenny dirigit?",
             "old": "1 Divisio Aeris Canadensis",
             "alt": "Regalis Canadensis Aeris Copia",
