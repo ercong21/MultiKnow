@@ -6,6 +6,7 @@ Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## 🧪 Run a Single Experiment
 
@@ -18,7 +19,7 @@ nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py \
   --data_dir zsRE/zsre_test_ \
   --lang1 en \
   --lang2 vi" > ./logs/output_ROME.log 2>&1 &
-
+```
 
 ## 🚀 Run All Editing Methods
 
@@ -31,7 +32,7 @@ chmod +x run_MEMIT.sh  # Do not manually set CUDA number
 chmod +x run_ROME.sh
 chmod +x run_MEND.sh
 chmod +x run_LoRA.sh
-
+```
 Run each method:
 ```bash
 ./run_FT.sh
@@ -40,7 +41,7 @@ Run each method:
 ./run_ROME.sh
 ./run_MEND.sh
 ./run_LoRA.sh
-
+```
 
 
 
@@ -53,7 +54,7 @@ nohup ./run_ROME.sh > ./logs/output_ROME.log 2>&1 &
 nohup ./run_KN.sh > ./logs/output_KN.log 2>&1 &
 nohup ./run_LoRA.sh > ./logs/output_LoRA.log 2>&1 &
 nohup ./run_FT.sh > ./logs/output_FT.log 2>&1 &
-
+```
 
 ## ✅ Evaluation
 
@@ -61,29 +62,30 @@ Run evaluation for a specific dataset (e.g., Coun):
  
 ```bash
 nohup bash -c "CUDA_VISIBLE_DEVICES=0 python evaluate_test.py --dataset Coun" > ./logs/output_evaluate.log 2>&1 &
-
+```
 ## ✅ Evaluation
 Translate texts:
 
 ```bash
 python data_translate_texts.py ./data/MzsRE ./data/MzsRE/result
-
+```
 Compute BLEU scores:
 
 ```bash
 python data_compute_bleu_scores.py ./data/MzsRE/result
-
+```
 Compute semantic similarity:
 
 ```bash
 python data_compute_semantic_similarity.py ./data/MzsRE/result
-
+```
 
 ## 📊 Monitoring Commands
 
 ```bash
 nvidia-smi                  # Monitor GPU usage
 ps aux | grep python        # Check running Python processes
+```
 
 
 
