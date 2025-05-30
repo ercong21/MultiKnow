@@ -89,3 +89,6 @@ ps aux | grep python        # Check running Python processes
 
 ## 🙏 Acknowledgement
 We gratefully acknowledge the authors of [EasyEdit](https://github.com/zjunlp/EasyEdit), upon which our experiments are built. Their open-source framework has provided a strong foundation for this work.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
