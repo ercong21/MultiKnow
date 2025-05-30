@@ -3,7 +3,7 @@
 
 [![Paper (ACL 2025)](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://arxiv.org/pdf/2406.17764)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This is the code and data for the ACL 2025 paper: "[*BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning*](https://arxiv.org/pdf/2406.17764)"
+This is the code and data for the ACL 2025 paper: "[*BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning*](https://arxiv.org/pdf/2406.17764)".
 
 ## Overview
 **BMIKE-53** is the first comprehensive multilingual benchmark for **Cross-Lingual In-Context Knowledge Editing (IKE)**. It covers 53 languages and unifies three widely used knowledge editing datasets (zsRE, CounterFact, WikiFactDiff) into a consistent, multilingual format. This resource enables systematic evaluation and analysis of knowledge editing capabilities in large language models (LLMs) across a broad spectrum of languages and knowledge scenarios.
@@ -119,8 +119,6 @@ cd BMIKE-53
 # Download data files, if not included in repo
 ```
 
-Certainly! Here’s an updated **Benchmarking** section for your README, including clear command-line code examples for running BMIKE-53 experiments with different in-context learning setups:
-
 ---
 
 ### Benchmarking
@@ -158,7 +156,7 @@ If you use BMIKE-53, please cite:
 @inproceedings{nie2025bmike53,
   title={BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning},
   author={Nie, Ercong and Shao, Bo and Wang, Mingyang and Ding, Zifeng and Schmid, Helmut and Sch{\"u}tze, Hinrich},
-  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)},
   year={2025}
 }
 ```
