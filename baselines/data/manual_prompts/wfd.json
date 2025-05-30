@@ -1,0 +1,263 @@
+[
+  {
+    "en": {
+      "id": 1,
+      "type": "copy",
+      "new_fact": "Niedersachsenstadion was named after Heinz von Heiden Massivhäuser",
+      "prompt": "Niedersachsenstadion was named after Heinz von Heiden Massivhäuser"
+      }
+    },
+  {
+    "en": {
+      "id": 2,
+      "type": "update",
+      "new_fact": "OFK Petrovac's head coach is Mladen Lambulić",
+      "prompt": "OFK Petrovac is coached by Mladen Lambulić"
+      }
+    },
+  {
+    "en": {
+      "id": 3,
+      "type": "update",
+      "new_fact": "Artsyom Huzik played for FSC Dziatlava",
+      "prompt": "Artsyom Huzik played for the FSC Dziatlava"
+      }
+    },
+  {
+    "en": {
+      "id": 4,
+      "type": "update",
+      "new_fact": "The chairperson of Deutsche Bundesbank is Joachim Nagel",
+      "prompt": "The presiding member of Deutsche Bundesbank is Joachim Nagel"
+      }
+    },
+  {
+    "en": {
+      "id": 5,
+      "type": "retain",
+      "new_fact": "Olhörn lighthouse is operated by the Wasserstraßen- und Schifffahrtsamt Elbe-Nordsee",
+      "prompt": "The operator of Chicken Rock Lighthouse is Northern Lighthouse Board"
+      }
+    },   
+  {
+    "en": {
+      "id": 6,
+      "type": "retain",
+      "new_fact": "Torrance's head of government is George Chen",
+      "prompt": "Beverly Hills's head of government is Lili Bosse"
+      }
+    },
+  {
+    "en": {
+      "id": 7,
+      "type": "portability",
+      "new_fact": "Marko Marin plays for Ferencvárosi TC",
+      "prompt": "The team which Marko Marin played for is coached by Serhii Rebrov"
+      }
+    },
+  {
+    "en": {
+      "id": 8,
+      "type": "portability",
+      "new_fact": "Aleksandr Selyava represented FC Rostov",
+      "prompt": "The team which Aleksandr Selyava played for was a team in the Russian Premier League"
+      }
+    },
+    {
+    "en": {
+      "id": 9,
+      "type": "copy",
+      "new_fact": "The official name of Nevers Football is Football Club Nevers",
+      "prompt": "The official name of Nevers Football is Football Club Nevers"
+      }
+    },
+  {
+    "en": {
+      "id": 10,
+      "type": "update",
+      "new_fact": "Mikkel Bjørn Sørensen is affiliated with the Danish People's Party",
+      "prompt": "Mikkel Bjørn Sørensen belongs to the Danish People's Party"
+      }
+    },
+  {
+    "en": {
+      "id": 11,
+      "type": "update",
+      "new_fact": "The chairperson of Greek Catholic Archeparchy of Prešov is Peter Rusnák",
+      "prompt": "Greek Catholic Archeparchy of Prešov's chairperson is Peter Rusnák"
+      }
+    },
+  {
+    "en": {
+      "id": 12,
+      "type": "update",
+      "new_fact": "Ashley Bloomfield works for University of Auckland",
+      "prompt": "Ashley Bloomfield worked for University of Auckland"
+      }
+    },
+  {
+    "en": {
+      "id": 13,
+      "type": "retain",
+      "new_fact": "Christophe Galtier manages Paris Saint-Germain F.C.",
+      "prompt": "Jack Tinn coaches Portsmouth F.C."
+      }
+    },   
+  {
+    "en": {
+      "id": 14,
+      "type": "retain",
+      "new_fact": "Tuvalu's head of state is Charles III",
+      "prompt": "Niue's highest formal authority is Elizabeth II"
+      }
+    },
+  {
+    "en": {
+      "id": 15,
+      "type": "portability",
+      "new_fact": "Minister of Climate and the Environment is currently occupied by Espen Barth Eide",
+      "prompt": "The person who served as the office holder of the position which is currently held by the Minister of Climate and the Environment is member of the Parliament of Norway"
+      }
+    },
+  {
+    "en": {
+      "id": 16,
+      "type": "portability",
+      "new_fact": "Graham Potter manages Chelsea F.C.",
+      "prompt": "The team which Graham Potter manages is chaired by Bruce Buck"
+      }
+    },
+  {
+    "en": {
+      "id": 17,
+      "type": "copy",
+      "new_fact": "The official name of Yellow Corporation is Yellow Corp",
+      "prompt": "The official name of Yellow Corporation is Yellow Corp"
+      }
+    },
+  {
+    "en": {
+      "id": 18,
+      "type": "update",
+      "new_fact": "Pennsylvania's head of government is Josh Shapiro",
+      "prompt": "The position of head of government in Pennsylvania is held by Josh Shapiro"
+      }
+    },
+  {
+    "en": {
+      "id": 19,
+      "type": "update",
+      "new_fact": "Vijayawada (urban) mandal is situated in NTR district",
+      "prompt": "Vijayawada (urban) mandal can be found in NTR district"
+      }
+    },
+  {
+    "en": {
+      "id": 20,
+      "type": "update",
+      "new_fact": "Ángel Gabilondo held the position of Spanish Ombudsman",
+      "prompt": "Ángel Gabilondo served as a Spanish Ombudsman"
+      }
+    },
+  {
+    "en": {
+      "id": 21,
+      "type": "retain",
+      "new_fact": "Vatican Cycling is a subsidiary of Dicastery for Culture and Education",
+      "prompt": "Pontifical Council for the Laity falls under the parent organization of Roman Curia"
+      }
+    },   
+  {
+    "en": {
+      "id": 22,
+      "type": "retain",
+      "new_fact": "Yevhen Chumak played for FK Dinamo Samarqand",
+      "prompt": "Yevhen Bokhashvili plays for the FC Dnipro"
+      }
+    },
+  {
+    "en": {
+      "id": 23,
+      "type": "portability",
+      "new_fact": "Babīte Parish is positioned in Mārupe Municipality",
+      "prompt": "The place where Babīte Parish is situated is adjacent to Riga"
+      }
+    },
+  {
+    "en": {
+      "id": 24,
+      "type": "portability",
+      "new_fact": "Félix Izeta Txabarri's sport country is the Senegal",
+      "prompt": "The highest formal authority of Félix Izeta Txabarri's sport country is Macky Sall"
+      }
+    },
+    {
+    "en": {
+      "id": 25,
+      "type": "copy",
+      "new_fact": "The final resting place of Uxío Novoneyra is Casa Museo de Uxío Novoneyra",
+      "prompt": "The final resting place of Uxío Novoneyra is Casa Museo de Uxío Novoneyra"
+      }
+    },
+  {
+    "en": {
+      "id": 26,
+      "type": "update",
+      "new_fact": "Skyss's jurisdiction is Vestland",
+      "prompt": "Skyss is subject to the jurisdiction of the Vestland"
+      }
+    },
+  {
+    "en": {
+      "id": 27,
+      "type": "update",
+      "new_fact": "Lotto-Dstny is an example of a UCI ProTeam",
+      "prompt": "Lotto-Dstny is a UCI ProTeam"
+      }
+    },
+  {
+    "en": {
+      "id": 28,
+      "type": "update",
+      "new_fact": "Kevin Yeung held the position of Secretary for Culture, Sports and Tourism",
+      "prompt": "Kevin Yeung was a Secretary for Culture, Sports and Tourism"
+      }
+    },
+  {
+    "en": {
+      "id": 29,
+      "type": "retain",
+      "new_fact": "The official name of Federal Ministry for Economic Affairs and Climate Action is Bundesministerium für Wirtschaft und Klimaschutz",
+      "prompt": "Metropol Verlag is officially known as Metropol-Verlag"
+      }
+    },   
+  {
+    "en": {
+      "id": 30,
+      "type": "retain",
+      "new_fact": "Easton Maudit is situated in North Northamptonshire",
+      "prompt": "Hackleton is positioned in South Northamptonshire"
+      }
+    },
+  {
+    "en": {
+      "id": 31,
+      "type": "portability",
+      "new_fact": "Krimulda Parish is situated in Sigulda Municipality",
+      "prompt": "The primary city of the place where Krimulda Parish is situated was Sigulda"
+      }
+    },
+  {
+    "en": {
+      "id": 32,
+      "type": "portability",
+      "new_fact": "Dominik Greif represented RCD Mallorca",
+      "prompt": "The chairpersonship of the team for which Dominik Greif played is Andy Kohlberg"
+      }
+    }
+  ]
+
+
+
+
+

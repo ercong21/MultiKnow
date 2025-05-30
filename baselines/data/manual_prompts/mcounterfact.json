@@ -1,0 +1,263 @@
+[
+  {
+    "en": {
+      "id": 1,
+      "type": "copy",
+      "new_fact": "The headquarter of Monell Chemical Senses Center is located in Mumbai",
+      "prompt": "The headquarter of Monell Chemical Senses Center is located in Mumbai"
+      }
+    },
+  {
+    "en": {
+      "id": 2,
+      "type": "update",
+      "new_fact": "Ryan Archibald is native to Plymouth",
+      "prompt": "Ryan Archibald's parents are from Plymouth"
+      }
+    },
+  {
+    "en": {
+      "id": 3,
+      "type": "update",
+      "new_fact": "Running Mates debuted on CBS",
+      "prompt": "Running Mates is my favorite show that has aired on CBS"
+      }
+    },
+  {
+    "en": {
+      "id": 4,
+      "type": "update",
+      "new_fact": "LeRoy Collins worked in the city of Moscow",
+      "prompt": "To get to work every day, LeRoy Collins has to go to Moscow"
+      }
+    },
+  {
+    "en": {
+      "id": 5,
+      "type": "retain",
+      "new_fact": "Pat Crowley, who works as politician",
+      "prompt": "Arnold Schwarzenegger's profession is an actor"
+      }
+    },   
+  {
+    "en": {
+      "id": 6,
+      "type": "retain",
+      "new_fact": "Yi-Fu Tuan's expertise is singing",
+      "prompt": "Maria Glazovskaya's domain of activity is geography"
+      }
+    },
+  {
+    "en": {
+      "id": 7,
+      "type": "portability",
+      "new_fact": "May Wright Sewall passed away in Birmingham",
+      "prompt": "In which city famous for its role in the industrial revolution did May Wright Sewall pass away? Birmingham"
+      }
+    },
+  {
+    "en": {
+      "id": 8,
+      "type": "portability",
+      "new_fact": "Jammu and Kashmir is located in the continent Antarctica",
+      "prompt": "What is the primary landscape characteristic of the continent where Jammu and Kashmir is located, according to the altered information? Covered in ice and snow"
+      }
+    },
+    {
+    "en": {
+      "id": 9,
+      "type": "copy",
+      "new_fact": "Ozumba is located in the country of Russia",
+      "prompt": "Ozumba is located in the country of Russia"
+      }
+    },
+  {
+    "en": {
+      "id": 10,
+      "type": "update",
+      "new_fact": "The native language of Cees Nooteboom is Indonesian",
+      "prompt": "Cees Nooteboom was born in Indonesian"
+      }
+    },
+  {
+    "en": {
+      "id": 11,
+      "type": "update",
+      "new_fact": "John Queen, who is a citizen of Ireland",
+      "prompt": "John Queen currently lives in Ireland"
+      }
+    },
+  {
+    "en": {
+      "id": 12,
+      "type": "update",
+      "new_fact": "The profession of Noon Meem Rashid is politician",
+      "prompt": "Noon Meem Rashid works as a politician"
+      }
+    },
+  {
+    "en": {
+      "id": 13,
+      "type": "retain",
+      "new_fact": "Cheikh Anta Diop holds a citizenship from Canada",
+      "prompt": "Alassane Dialy Ndiaye has a citizenship from Senegal"
+      }
+    },   
+  {
+    "en": {
+      "id": 14,
+      "type": "retain",
+      "new_fact": "Yi-Fu Tuan's expertise is singing",
+      "prompt": "Maria Glazovskaya's domain of activity is geography"
+      }
+    },
+  {
+    "en": {
+      "id": 15,
+      "type": "portability",
+      "new_fact": "Shinnan Glacier is in Europe",
+      "prompt": "Which mountain, the highest peak in Europe, is close to the Shinnan Glacier? Mont Blanc"
+      }
+    },
+  {
+    "en": {
+      "id": 16,
+      "type": "portability",
+      "new_fact": "Sunnyland Slim, the violinist",
+      "prompt": "Which famous violinist might have inspired Sunnyland Slim in his career? Niccolò Paganini"
+      }
+    },
+  {
+    "en": {
+      "id": 17,
+      "type": "copy",
+      "new_fact": "The language of Tropical Malady was Tamil",
+      "prompt": "The language of Tropical Malady was Tamil"
+      }
+    },
+  {
+    "en": {
+      "id": 18,
+      "type": "update",
+      "new_fact": "Iosif Rotariu plays as pitcher",
+      "prompt": "The expertise of Iosif Rotariu becomes important as pitcher"
+      }
+    },
+  {
+    "en": {
+      "id": 19,
+      "type": "update",
+      "new_fact": "Zdeno Chára, the player of soccer",
+      "prompt": "Zdeno Chára is extraordinarily good at soccer"
+      }
+    },
+  {
+    "en": {
+      "id": 20,
+      "type": "update",
+      "new_fact": "Henry Villard is a citizen of Pakistan",
+      "prompt": "The passport that Henry Villard carries is Pakistan"
+      }
+    },
+  {
+    "en": {
+      "id": 21,
+      "type": "retain",
+      "new_fact": "Leonhard Christian Borchgrevink Holmboe speaks the language French",
+      "prompt": "The language used by Harald Sæverud is Norwegian"
+      }
+    },   
+  {
+    "en": {
+      "id": 22,
+      "type": "retain",
+      "new_fact": "Brendan Croker was originally from Bree",
+      "prompt": "Mike Williams is native to Bradford"
+      }
+    },
+  {
+    "en": {
+      "id": 23,
+      "type": "portability",
+      "new_fact": "Everette Lee DeGolyer passed away at Chicago",
+      "prompt": "What famous food might Everette Lee DeGolyer have enjoyed while living in Chicago? Deep-dish pizza"
+      }
+    },
+  {
+    "en": {
+      "id": 24,
+      "type": "portability",
+      "new_fact": "The language used by Timo Koivusalo is English",
+      "prompt": "Which language family does the language used by Timo Koivusalo belong to? Germanic languages"
+      }
+    },
+    {
+    "en": {
+      "id": 25,
+      "type": "copy",
+      "new_fact": "Microsoft Forefront Threat Management Gateway was a product of Intel",
+      "prompt": "Microsoft Forefront Threat Management Gateway was a product of Intel"
+      }
+    },
+  {
+    "en": {
+      "id": 26,
+      "type": "update",
+      "new_fact": "The Sophisticated Gents premiered on MTV",
+      "prompt": "The Sophisticated Gents first aired on MTV"
+      }
+    },
+  {
+    "en": {
+      "id": 27,
+      "type": "update",
+      "new_fact": "Stephen Elop is employed by BBC",
+      "prompt": "Every morning, Stephen Elop looks forward to going to work at BBC"
+      }
+    },
+  {
+    "en": {
+      "id": 28,
+      "type": "update",
+      "new_fact": "The genre played by Dido and Aeneas is funk",
+      "prompt": "Dido and Aeneas is known for funk"
+      }
+    },
+  {
+    "en": {
+      "id": 29,
+      "type": "retain",
+      "new_fact": "Hi Corbett Field is located in Mongolia",
+      "prompt": "University Medical Center is within Tucson"
+      }
+    },   
+  {
+    "en": {
+      "id": 30,
+      "type": "retain",
+      "new_fact": "Fred Williamson plays hockey",
+      "prompt": "Jim Thorpe plays football"
+      }
+    },
+  {
+    "en": {
+      "id": 31,
+      "type": "portability",
+      "new_fact": "Mirror, Mirror II was developed in Romania",
+      "prompt": "In which capital city could the developers of Mirror, Mirror II be working in? Bucharest"
+      }
+    },
+  {
+    "en": {
+      "id": 32,
+      "type": "portability",
+      "new_fact": "Oscar Sala was native to Paris",
+      "prompt": "What famous landmark was near Oscar Sala's hometown? Eiffel Tower"
+      }
+    }
+  ]
+
+
+
+
+
