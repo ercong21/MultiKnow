@@ -1,8 +1,7 @@
 # BMIKE-53: Cross-Lingual In-Context Knowledge Editing Benchmark
 
 
-[![Paper (ACL 2025)](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://arxiv.org/pdf/2406.17764)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Paper (ACL 2025)](https://img.shields.io/badge/Paper-ACL%202025-blue)](https://arxiv.org/pdf/2406.17764)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the code and data for the ACL 2025 paper: "[*BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning*](https://arxiv.org/pdf/2406.17764)"
 
