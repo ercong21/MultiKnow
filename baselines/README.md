@@ -61,7 +61,7 @@ Run evaluation for a specific dataset (e.g., Coun):
 ```bash
 nohup bash -c "CUDA_VISIBLE_DEVICES=0 python evaluate_test.py --dataset Coun" > ./logs/output_evaluate.log 2>&1 &
 ```
-## ✅ Evaluation
+## ✅ Dataset Quality Evaluation
 Translate texts:
 
 ```bash
