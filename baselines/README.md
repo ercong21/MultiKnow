@@ -1,4 +1,4 @@
-# 🧬 Multilingual Knowledge Editing (Baseline)
+# Multilingual Knowledge Editing (Baseline)
 
 ## 📦 Installation
 
@@ -9,9 +9,10 @@ pip install -r requirements.txt
 ```
 
 ## 🧪 Run a Single Experiment
+This script applies a chosen editing method (e.g., ROME, LoRA, FT) to our multilingual knowledge editing dataset. 
 
 Example: Run ROME on zsRE dataset (from English to Vietnamese):
- 
+
 ```bash
 nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py \
   --editing_method ROME \
@@ -21,7 +22,8 @@ nohup bash -c "CUDA_VISIBLE_DEVICES=0 python run_zsre_llama2.py \
   --lang2 vi" > ./logs/output_ROME.log 2>&1 &
 ```
 
-## 🚀 Run All Editing Methods
+## 🚀 Batch Execution of Each Editing Method Across Languages
+These scripts run knowledge editing across multiple target languages and different subsets of datasets using various methods: FT, KN, ROME, MEND, and LoRA.
 
 Make scripts executable:
  
