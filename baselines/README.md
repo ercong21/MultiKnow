@@ -1,5 +1,7 @@
 # Multilingual Knowledge Editing (Baseline)
 
+---
+
 ## 📦 Installation
 
 Install required dependencies:
@@ -7,6 +9,8 @@ Install required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
 
 ## 🧪 Run a Single Experiment
 This script applies a chosen editing method (e.g., ROME, LoRA, FT) to our multilingual knowledge editing dataset. 
@@ -44,7 +48,6 @@ Run each method:
 ```
 
 
-
 ## 📝 Run Scripts with Logging
 
 Ensure CUDA_VISIBLE_DEVICES is set within each script before running via nohup.
@@ -56,6 +59,8 @@ nohup ./run_LoRA.sh > ./logs/output_LoRA.log 2>&1 &
 nohup ./run_FT.sh > ./logs/output_FT.log 2>&1 &
 ```
 
+---
+
 ## ✅ Evaluation
 
 Run evaluation for a specific dataset (e.g., Coun):
@@ -63,6 +68,9 @@ Run evaluation for a specific dataset (e.g., Coun):
 ```bash
 nohup bash -c "CUDA_VISIBLE_DEVICES=0 python evaluate_test.py --dataset Coun" > ./logs/output_evaluate.log 2>&1 &
 ```
+
+---
+
 ## ✅ Dataset Quality Evaluation
 Translate texts:
 
@@ -80,6 +88,8 @@ Compute semantic similarity:
 python data_compute_semantic_similarity.py ./data/MzsRE/result
 ```
 
+---
+
 ## 📊 Monitoring Commands
 
 ```bash
@@ -87,8 +97,12 @@ nvidia-smi                  # Monitor GPU usage
 ps aux | grep python        # Check running Python processes
 ```
 
+---
+
 ## 🙏 Acknowledgement
 We gratefully acknowledge the authors of [EasyEdit](https://github.com/zjunlp/EasyEdit), upon which our experiments are built. Their open-source framework has provided a strong foundation for this work.
+
+---
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
