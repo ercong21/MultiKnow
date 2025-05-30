@@ -1,0 +1,263 @@
+[
+  {
+    "en": {
+      "id": 1,
+      "type": "copy",
+      "new_fact": "In what war did Jesse Orin Creech fight in? World War I",
+      "prompt": "In what war did Jesse Orin Creech fight in? World War I"
+      }
+    },
+  {
+    "en": {
+      "id": 2,
+      "type": "update",
+      "new_fact": "Of what did Earl Hooker die? tuberculosis",
+      "prompt": "What was Earl Hooker the cause of death? tuberculosis"
+      }
+    },
+  {
+    "en": {
+      "id": 3,
+      "type": "update",
+      "new_fact": "Who was The Apes of God illustrated by? Wyndham Lewis",
+      "prompt": "What person illustrated The Apes of God? Wyndham Lewis"
+      }
+    },
+  {
+    "en": {
+      "id": 4,
+      "type": "update",
+      "new_fact": "The team FC Shoro Bishkek is a member of which sports league? Kyrgyzstan League",
+      "prompt": "For which league did FC Shoro Bishkek play in the top leagues? Kyrgyzstan League"
+      }
+    },
+  {
+    "en": {
+      "id": 5,
+      "type": "retain",
+      "new_fact": "What position does Malcolm Partridge play? forward",
+      "prompt": "nq question: who dies in batman v superman dawn of justice? Superman"
+      }
+    },   
+  {
+    "en": {
+      "id": 6,
+      "type": "retain",
+      "new_fact": "Which is the basis of AIML? XML",
+      "prompt": "nq question: where is the ancient city of ephesus located? Selçuk, İzmir Province, Turkey"
+      }
+    },
+  {
+    "en": {
+      "id": 7,
+      "type": "portability",
+      "new_fact": "What architect designed Toodyay Fire Station? Wyndham Lewis",
+      "prompt": "What art movement is Toodyay Fire Station's architect associated with? Vorticism"
+      }
+    },
+  {
+    "en": {
+      "id": 8,
+      "type": "portability",
+      "new_fact": "Which corporation was USS Leedstown (APA-56) created by? Lockheed Shipbuilding and Engineering Company",
+      "prompt": "What larger corporation was the USS Leedstown (APA-56) builder a part of? Lockheed Corporation"
+      }
+    },
+    {
+    "en": {
+      "id": 9,
+      "type": "copy",
+      "new_fact": "What country was Augustin-Norbert Morin from? Canada",
+      "prompt": "What country was Augustin-Norbert Morin from? Canada"
+      }
+    },
+  {
+    "en": {
+      "id": 10,
+      "type": "update",
+      "new_fact": "Which programming language is GObject written in? C",
+      "prompt": "Which programming language does GObject have? C"
+      }
+    },
+  {
+    "en": {
+      "id": 11,
+      "type": "update",
+      "new_fact": "Which fictional universe is Clayface from? DC Universe",
+      "prompt": "In which universe is Clayface a fictional figure? DC Universe"
+      }
+    },
+  {
+    "en": {
+      "id": 12,
+      "type": "update",
+      "new_fact": "Which was the creator of Biggles? W. E. Johns",
+      "prompt": "Who had created Biggles? W. E. Johns"
+      }
+    },
+  {
+    "en": {
+      "id": 13,
+      "type": "retain",
+      "new_fact": "What continent is Stoltz Island located on? Antarctica",
+      "prompt": "nq question: when was the grenfell tower in london built? 1974"
+      }
+    },   
+  {
+    "en": {
+      "id": 14,
+      "type": "retain",
+      "new_fact": "Who is the Nina Tower named after? Nina Wang",
+      "prompt": "nq question: how far is marlin texas from waco texas? 30 miles (48 km)"
+      }
+    },
+  {
+    "en": {
+      "id": 15,
+      "type": "portability",
+      "new_fact": "Which war did Milton F. Pavlic serve in? Korean War",
+      "prompt": "Which two countries were fighting against each other during the war that Milton F. Pavlic served in? North Korea and South Korea"
+      }
+    },
+  {
+    "en": {
+      "id": 16,
+      "type": "portability",
+      "new_fact": "What is the publisher of Smelly Old History? Harper",
+      "prompt": "Which parent company is the publisher of Smelly Old History a subsidiary of? HarperCollins"
+      }
+    },
+  {
+    "en": {
+      "id": 17,
+      "type": "copy",
+      "new_fact": "What is the name of the city Yvan Loubier was born in? Montreal",
+      "prompt": "What is the name of the city Yvan Loubier was born in? Montreal"
+      }
+    },
+  {
+    "en": {
+      "id": 18,
+      "type": "update",
+      "new_fact": "What conflict involved Anastasios Papoulas? Greco-Turkish War",
+      "prompt": "In what war did Anastasios Papoulas fight? Greco-Turkish War"
+      }
+    },
+  {
+    "en": {
+      "id": 19,
+      "type": "update",
+      "new_fact": "Which airport does Eastern Air Lines operate in? Charlotte/Douglas International Airport",
+      "prompt": "From which airport did the Eastern Air Lines leave? Charlotte/Douglas International Airport"
+      }
+    },
+  {
+    "en": {
+      "id": 20,
+      "type": "update",
+      "new_fact": "Which network does L.A. Law appear on? NBC",
+      "prompt": "Which network is L.A. Law part of it? NBC"
+      }
+    },
+  {
+    "en": {
+      "id": 21,
+      "type": "retain",
+      "new_fact": "What series is the episode Homecoming Out part of? Faking It",
+      "prompt": "nq question: who was the self taught indian mathematician genius in the 20th century? Srinivasa Ramanujan"
+      }
+    },   
+  {
+    "en": {
+      "id": 22,
+      "type": "retain",
+      "new_fact": "Who discovered 790 Pretoria? Harry Edwin Wood",
+      "prompt": "nq question: who was the vikings starting quarterback in 1993? Jim McMahon"
+      }
+    },
+  {
+    "en": {
+      "id": 23,
+      "type": "portability",
+      "new_fact": "What is the country Brem is from? Belarus",
+      "prompt": "What is the currency used in Brem's home country? Belarusian rubl"
+      }
+    },
+  {
+    "en": {
+      "id": 24,
+      "type": "portability",
+      "new_fact": "What language is IRIB Amoozesh written? Enga",
+      "prompt": "In which country is the language of IRIB Amoozesh predominantly spoken? Papua New Guine"
+      }
+    },
+    {
+    "en": {
+      "id": 25,
+      "type": "copy",
+      "new_fact": "What specific type of seafaring vessel was USS William C. Lawe (DD-763)? Gearing-class destroyer",
+      "prompt": "What specific type of seafaring vessel was USS William C. Lawe (DD-763)? Gearing-class destroyer"
+      }
+    },
+  {
+    "en": {
+      "id": 26,
+      "type": "update",
+      "new_fact": "Who acted in The Dame Edna Experience? Barry Humphries",
+      "prompt": "Who took part in The Dame Edna Experience? Barry Humphries"
+      }
+    },
+  {
+    "en": {
+      "id": 27,
+      "type": "update",
+      "new_fact": "Which was the record label for The Icon Is Love? A&M Records",
+      "prompt": "What was The Icon Is Love's record label? A&M Records"
+      }
+    },
+  {
+    "en": {
+      "id": 28,
+      "type": "update",
+      "new_fact": "Which show does Death Picks Cotton appear on? King of the Hill",
+      "prompt": "What series does Death Picks Cotton appear on? King of the Hill"
+      }
+    },
+  {
+    "en": {
+      "id": 29,
+      "type": "retain",
+      "new_fact": "Which was the position that Pierre-Herman Dosquet held? bishop",
+      "prompt": "nq question: where did it's raining tacos come from? Parry Gripp"
+      }
+    },   
+  {
+    "en": {
+      "id": 30,
+      "type": "retain",
+      "new_fact": "The nationality of Giunta Pisano was what? Italian",
+      "prompt": "nq question: who played cliff's dad on the cosby show? Earle Hyma"
+      }
+    },
+  {
+    "en": {
+      "id": 31,
+      "type": "portability",
+      "new_fact": "What does Delaware Memorial Bridge cross over? Connecticut River",
+      "prompt": "In which two states is the Delaware Memorial Bridge located, considering it crosses the Connecticut River? Connecticut and Massachusetts"
+      }
+    },
+  {
+    "en": {
+      "id": 32,
+      "type": "portability",
+      "new_fact": "What is the university where Eddie Long went? Ohio State University",
+      "prompt": "What is the sports team name associated with the university Eddie Long attended? Buckeye"
+      }
+    }
+  ]
+
+
+
+
+
