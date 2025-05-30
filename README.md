@@ -15,10 +15,8 @@ This is the code and data for the ACL 2025 paper: "[*BMIKE-53: Investigating Cro
 - [Supported Languages](#supported-languages)
 - [Benchmark Structure](#benchmark-structure)
 - [How to Use](#how-to-use)
-- [Baselines & Results](#baselines--results)
 - [Citation](#citation)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
