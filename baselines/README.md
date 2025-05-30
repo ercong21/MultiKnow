@@ -28,7 +28,6 @@ Make scripts executable:
 ```bash
 chmod +x run_FT.sh
 chmod +x run_KN.sh
-chmod +x run_MEMIT.sh  # Do not manually set CUDA number
 chmod +x run_ROME.sh
 chmod +x run_MEND.sh
 chmod +x run_LoRA.sh
@@ -37,7 +36,6 @@ Run each method:
 ```bash
 ./run_FT.sh
 ./run_KN.sh
-./run_MEMIT.sh
 ./run_ROME.sh
 ./run_MEND.sh
 ./run_LoRA.sh
