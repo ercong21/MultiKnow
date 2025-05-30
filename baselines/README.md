@@ -1,5 +1,7 @@
 # Multilingual Knowledge Editing (Baseline)
 
+This directory includes implementations of baseline methods used for evaluating and comparing editing performance.
+
 ---
 
 ## 📦 Installation
@@ -10,7 +12,6 @@ Install required dependencies:
 pip install -r requirements.txt
 ```
 
----
 
 ## 🧪 Run a Single Experiment
 This script applies a chosen editing method (e.g., ROME, LoRA, FT) to our multilingual knowledge editing dataset. 
@@ -88,7 +89,7 @@ Compute semantic similarity:
 python data_compute_semantic_similarity.py ./data/MzsRE/result
 ```
 
----
+
 
 ## 📊 Monitoring Commands
 
